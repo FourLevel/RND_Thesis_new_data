@@ -1,0 +1,705 @@
+﻿model_id,variables,method,variable,coefficient,p_value,final_filter_rule,retention_ratio
+model_0187,Skewness + Mean + Std + Median + T-2 Return,1pt,const,0.0014370547243256193,0.5579300528301177,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0187,Skewness + Mean + Std + Median + T-2 Return,1pt,Skewness,0.005736397806311474,5.386833981775331e-08,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0187,Skewness + Mean + Std + Median + T-2 Return,1pt,Mean,1.1805412355772442e-06,0.03820264715699087,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0187,Skewness + Mean + Std + Median + T-2 Return,1pt,Std,-5.394616287454036e-07,0.37049304868862565,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0187,Skewness + Mean + Std + Median + T-2 Return,1pt,Median,-1.123651547084235e-06,0.042349374123872886,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0187,Skewness + Mean + Std + Median + T-2 Return,1pt,T-2 Return,0.02442207555779784,0.4584317742651953,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0187,Skewness + Mean + Std + Median + T-2 Return,2pt,const,0.0012729670025723122,0.6045861021233777,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0187,Skewness + Mean + Std + Median + T-2 Return,2pt,Skewness,0.0057939175122708455,5.2239199163003764e-08,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0187,Skewness + Mean + Std + Median + T-2 Return,2pt,Mean,1.182118486504518e-06,0.03794186052526728,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0187,Skewness + Mean + Std + Median + T-2 Return,2pt,Std,-5.375141646066402e-07,0.3720567322307601,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0187,Skewness + Mean + Std + Median + T-2 Return,2pt,Median,-1.1217962534337686e-06,0.04264890016365284,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0187,Skewness + Mean + Std + Median + T-2 Return,2pt,T-2 Return,0.0247882961204807,0.45170348423586637,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0058,Skewness + Mean + Std + Median,1pt,const,0.0014829133587139125,0.5452036547086128,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0058,Skewness + Mean + Std + Median,1pt,Skewness,0.005740492406302003,5.2276893473625184e-08,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0058,Skewness + Mean + Std + Median,1pt,Mean,1.214683475522913e-06,0.03235292763113846,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0058,Skewness + Mean + Std + Median,1pt,Std,-5.667094406358566e-07,0.34580235868244136,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0058,Skewness + Mean + Std + Median,1pt,Median,-1.1565697811453992e-06,0.03602056392110435,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0058,Skewness + Mean + Std + Median,2pt,const,0.0013202309618435004,0.5910257843033446,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0058,Skewness + Mean + Std + Median,2pt,Skewness,0.005796498106181832,5.113213040064025e-08,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0058,Skewness + Mean + Std + Median,2pt,Mean,1.216563500779592e-06,0.032091578707354386,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0058,Skewness + Mean + Std + Median,2pt,Std,-5.649967637414864e-07,0.34710987296814366,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0058,Skewness + Mean + Std + Median,2pt,Median,-1.1550296470538175e-06,0.03623870296930313,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0189,Skewness + Mean + Std + Median + T-4 Return,1pt,const,0.001480878029063964,0.5459886545451561,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0189,Skewness + Mean + Std + Median + T-4 Return,1pt,Skewness,0.005739779852713401,5.340424666310818e-08,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0189,Skewness + Mean + Std + Median + T-4 Return,1pt,Mean,1.2176115063059566e-06,0.032131150861526056,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0189,Skewness + Mean + Std + Median + T-4 Return,1pt,Std,-5.698423170076121e-07,0.3436878662071543,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0189,Skewness + Mean + Std + Median + T-4 Return,1pt,Median,-1.1590081455266013e-06,0.03581097277196563,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0189,Skewness + Mean + Std + Median + T-4 Return,1pt,T-4 Return,-0.005365426136001621,0.8764086468584839,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0189,Skewness + Mean + Std + Median + T-4 Return,2pt,const,0.0013182924094028627,0.5917859211427916,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0189,Skewness + Mean + Std + Median + T-4 Return,2pt,Skewness,0.0057957080212053666,5.2260251565058806e-08,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0189,Skewness + Mean + Std + Median + T-4 Return,2pt,Mean,1.219392046036357e-06,0.0318830518723895,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0189,Skewness + Mean + Std + Median + T-4 Return,2pt,Std,-5.680294125192922e-07,0.3450670356837713,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0189,Skewness + Mean + Std + Median + T-4 Return,2pt,Median,-1.1573820697645292e-06,0.03603936543533425,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0189,Skewness + Mean + Std + Median + T-4 Return,2pt,T-4 Return,-0.005256563973912444,0.8788922009975331,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0185,Skewness + Mean + Std + Median + VIX,1pt,const,-0.005355336276324413,0.33289071789015245,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0185,Skewness + Mean + Std + Median + VIX,1pt,Skewness,0.005790051975187684,4.038543177529195e-08,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0185,Skewness + Mean + Std + Median + VIX,1pt,Mean,1.2824575374270806e-06,0.02433272624350229,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0185,Skewness + Mean + Std + Median + VIX,1pt,Std,-6.459604449490418e-07,0.28452857784336166,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0185,Skewness + Mean + Std + Median + VIX,1pt,Median,-1.169642440898193e-06,0.03391132472850659,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0185,Skewness + Mean + Std + Median + VIX,1pt,VIX,0.00024352384648750487,0.1679551547884479,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0185,Skewness + Mean + Std + Median + VIX,2pt,const,-0.005597774013601584,0.3118963050530209,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0185,Skewness + Mean + Std + Median + VIX,2pt,Skewness,0.005851100558937813,3.8642873180531156e-08,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0185,Skewness + Mean + Std + Median + VIX,2pt,Mean,1.2856430629934142e-06,0.02399115338985031,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0185,Skewness + Mean + Std + Median + VIX,2pt,Std,-6.455349393362549e-07,0.28470614005055717,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0185,Skewness + Mean + Std + Median + VIX,2pt,Median,-1.1686950141551422e-06,0.034025093658788814,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0185,Skewness + Mean + Std + Median + VIX,2pt,VIX,0.0002462533235097886,0.16326650347958022,Fear and Greed Index <= 76.000000 AND Median <= 63892.400000,0.7255230125523012
+model_0075,Skewness + Mean + Median + T-2 Return,1pt,const,0.0033830463401482405,0.08720996778884557,Skewness <= 1.014132,0.8
+model_0075,Skewness + Mean + Median + T-2 Return,1pt,Skewness,0.006214183383515632,1.6241806525252714e-07,Skewness <= 1.014132,0.8
+model_0075,Skewness + Mean + Median + T-2 Return,1pt,Mean,1.4514367010002315e-06,0.006882143394349305,Skewness <= 1.014132,0.8
+model_0075,Skewness + Mean + Median + T-2 Return,1pt,Median,-1.4376620692248044e-06,0.007207355654894111,Skewness <= 1.014132,0.8
+model_0075,Skewness + Mean + Median + T-2 Return,1pt,T-2 Return,0.04709924838248836,0.14063547105207083,Skewness <= 1.014132,0.8
+model_0075,Skewness + Mean + Median + T-2 Return,2pt,const,0.0032478916926442884,0.10054335079441089,Skewness <= 1.014132,0.8
+model_0075,Skewness + Mean + Median + T-2 Return,2pt,Skewness,0.0062509164212668665,1.6956765108302083e-07,Skewness <= 1.014132,0.8
+model_0075,Skewness + Mean + Median + T-2 Return,2pt,Mean,1.4509949221339508e-06,0.006898930000339079,Skewness <= 1.014132,0.8
+model_0075,Skewness + Mean + Median + T-2 Return,2pt,Median,-1.4348990740437711e-06,0.007316637314891293,Skewness <= 1.014132,0.8
+model_0075,Skewness + Mean + Median + T-2 Return,2pt,T-2 Return,0.047555546747053715,0.1368485392107277,Skewness <= 1.014132,0.8
+model_0239,Skewness + Mean + Median + T-2 Return + T-4 Return,1pt,const,0.0034884873897729745,0.07801337525154617,Skewness <= 1.014132,0.8
+model_0239,Skewness + Mean + Median + T-2 Return + T-4 Return,1pt,Skewness,0.006242597317479017,1.4261676438795743e-07,Skewness <= 1.014132,0.8
+model_0239,Skewness + Mean + Median + T-2 Return + T-4 Return,1pt,Mean,1.4421015203271338e-06,0.007239567483289779,Skewness <= 1.014132,0.8
+model_0239,Skewness + Mean + Median + T-2 Return + T-4 Return,1pt,Median,-1.4284770098385994e-06,0.007574974042287563,Skewness <= 1.014132,0.8
+model_0239,Skewness + Mean + Median + T-2 Return + T-4 Return,1pt,T-2 Return,0.04821285691300845,0.13154948861577745,Skewness <= 1.014132,0.8
+model_0239,Skewness + Mean + Median + T-2 Return + T-4 Return,1pt,T-4 Return,-0.04073516723505772,0.21962366585502333,Skewness <= 1.014132,0.8
+model_0239,Skewness + Mean + Median + T-2 Return + T-4 Return,2pt,const,0.003352224917698066,0.09030984288569059,Skewness <= 1.014132,0.8
+model_0239,Skewness + Mean + Median + T-2 Return + T-4 Return,2pt,Skewness,0.006278242630399474,1.4975101921107878e-07,Skewness <= 1.014132,0.8
+model_0239,Skewness + Mean + Median + T-2 Return + T-4 Return,2pt,Mean,1.4415298148745169e-06,0.007262951303210532,Skewness <= 1.014132,0.8
+model_0239,Skewness + Mean + Median + T-2 Return + T-4 Return,2pt,Median,-1.4255819556192906e-06,0.007695511135503917,Skewness <= 1.014132,0.8
+model_0239,Skewness + Mean + Median + T-2 Return + T-4 Return,2pt,T-2 Return,0.04866719976003739,0.1279732322440896,Skewness <= 1.014132,0.8
+model_0239,Skewness + Mean + Median + T-2 Return + T-4 Return,2pt,T-4 Return,-0.04057547392802843,0.2214535815515464,Skewness <= 1.014132,0.8
+model_0232,Skewness + Mean + Median + VIX + T-2 Return,1pt,const,-0.0034934939899894037,0.449650016606413,Skewness <= 1.014132,0.8
+model_0232,Skewness + Mean + Median + VIX + T-2 Return,1pt,Skewness,0.006241295095018874,1.4054628245328307e-07,Skewness <= 1.014132,0.8
+model_0232,Skewness + Mean + Median + VIX + T-2 Return,1pt,Mean,1.4545328455539962e-06,0.006715341200135227,Skewness <= 1.014132,0.8
+model_0232,Skewness + Mean + Median + VIX + T-2 Return,1pt,Median,-1.4177079631707491e-06,0.008010233068470518,Skewness <= 1.014132,0.8
+model_0232,Skewness + Mean + Median + VIX + T-2 Return,1pt,VIX,0.00028744852688864403,0.09995188483541223,Skewness <= 1.014132,0.8
+model_0232,Skewness + Mean + Median + VIX + T-2 Return,1pt,T-2 Return,0.048388190901704646,0.1298719808735618,Skewness <= 1.014132,0.8
+model_0232,Skewness + Mean + Median + VIX + T-2 Return,2pt,const,-0.0036482371425404433,0.4298775476434976,Skewness <= 1.014132,0.8
+model_0232,Skewness + Mean + Median + VIX + T-2 Return,2pt,Skewness,0.006280038648803832,1.4560200039175103e-07,Skewness <= 1.014132,0.8
+model_0232,Skewness + Mean + Median + VIX + T-2 Return,2pt,Mean,1.454176872713383e-06,0.006728137046532824,Skewness <= 1.014132,0.8
+model_0232,Skewness + Mean + Median + VIX + T-2 Return,2pt,Median,-1.414942009439282e-06,0.008130050700215444,Skewness <= 1.014132,0.8
+model_0232,Skewness + Mean + Median + VIX + T-2 Return,2pt,VIX,0.00028824303491905846,0.09903660492356696,Skewness <= 1.014132,0.8
+model_0232,Skewness + Mean + Median + VIX + T-2 Return,2pt,T-2 Return,0.048849982634088476,0.12626550705619735,Skewness <= 1.014132,0.8
+model_0014,Skewness + Mean + Median,1pt,const,0.0035169052227896134,0.07529760415638445,Skewness <= 1.014132,0.8
+model_0014,Skewness + Mean + Median,1pt,Skewness,0.006222971965179741,1.587441442861862e-07,Skewness <= 1.014132,0.8
+model_0014,Skewness + Mean + Median,1pt,Mean,1.4788995307874676e-06,0.0058979902066329404,Skewness <= 1.014132,0.8
+model_0014,Skewness + Mean + Median,1pt,Median,-1.4647949151953165e-06,0.006189494643390418,Skewness <= 1.014132,0.8
+model_0014,Skewness + Mean + Median,2pt,const,0.0033828668141094908,0.08706628431082955,Skewness <= 1.014132,0.8
+model_0014,Skewness + Mean + Median,2pt,Skewness,0.0062550629927723405,1.6940174002575187e-07,Skewness <= 1.014132,0.8
+model_0014,Skewness + Mean + Median,2pt,Mean,1.478499193000755e-06,0.005912782023196885,Skewness <= 1.014132,0.8
+model_0014,Skewness + Mean + Median,2pt,Median,-1.4621079745460096e-06,0.0062836083166156525,Skewness <= 1.014132,0.8
+model_0077,Skewness + Mean + Median + T-4 Return,1pt,const,0.0036217237448249477,0.06723177473579317,Skewness <= 1.014132,0.8
+model_0077,Skewness + Mean + Median + T-4 Return,1pt,Skewness,0.006250595555640996,1.4011460667676935e-07,Skewness <= 1.014132,0.8
+model_0077,Skewness + Mean + Median + T-4 Return,1pt,Mean,1.470516583702487e-06,0.006177855463263829,Skewness <= 1.014132,0.8
+model_0077,Skewness + Mean + Median + T-4 Return,1pt,Median,-1.4565493241385447e-06,0.006477840156510758,Skewness <= 1.014132,0.8
+model_0077,Skewness + Mean + Median + T-4 Return,1pt,T-4 Return,-0.03931458984213153,0.23624041748913815,Skewness <= 1.014132,0.8
+model_0077,Skewness + Mean + Median + T-4 Return,2pt,const,0.0034865482847480536,0.07805951907439287,Skewness <= 1.014132,0.8
+model_0077,Skewness + Mean + Median + T-4 Return,2pt,Skewness,0.006281514886078386,1.504404555386415e-07,Skewness <= 1.014132,0.8
+model_0077,Skewness + Mean + Median + T-4 Return,2pt,Mean,1.469989477332147e-06,0.006198222432463978,Skewness <= 1.014132,0.8
+model_0077,Skewness + Mean + Median + T-4 Return,2pt,Median,-1.4537343463859775e-06,0.006581194357803609,Skewness <= 1.014132,0.8
+model_0077,Skewness + Mean + Median + T-4 Return,2pt,T-4 Return,-0.039138411935781936,0.23837398654939487,Skewness <= 1.014132,0.8
+model_0073,Skewness + Mean + Median + VIX,1pt,const,-0.0032008187098236597,0.4884266965220062,Skewness <= 1.014132,0.8
+model_0073,Skewness + Mean + Median + VIX,1pt,Skewness,0.006249706721258925,1.3785598312571592e-07,Skewness <= 1.014132,0.8
+model_0073,Skewness + Mean + Median + VIX,1pt,Mean,1.482660376590401e-06,0.005733711542708092,Skewness <= 1.014132,0.8
+model_0073,Skewness + Mean + Median + VIX,1pt,Median,-1.4460170362653159e-06,0.006846794235805878,Skewness <= 1.014132,0.8
+model_0073,Skewness + Mean + Median + VIX,1pt,VIX,0.0002809594623166762,0.10796879463154745,Skewness <= 1.014132,0.8
+model_0073,Skewness + Mean + Median + VIX,2pt,const,-0.0033527006682235226,0.4680869938603972,Skewness <= 1.014132,0.8
+model_0073,Skewness + Mean + Median + VIX,2pt,Skewness,0.006283632632790962,1.461073241578857e-07,Skewness <= 1.014132,0.8
+model_0073,Skewness + Mean + Median + VIX,2pt,Mean,1.4823403256183421e-06,0.005745212588295573,Skewness <= 1.014132,0.8
+model_0073,Skewness + Mean + Median + VIX,2pt,Median,-1.4433289299425156e-06,0.006949527547972135,Skewness <= 1.014132,0.8
+model_0073,Skewness + Mean + Median + VIX,2pt,VIX,0.0002816819906654081,0.10709272214609433,Skewness <= 1.014132,0.8
+model_0234,Skewness + Mean + Median + VIX + T-4 Return,1pt,const,-0.002855064491431847,0.53747526898623,Skewness <= 1.014132,0.8
+model_0234,Skewness + Mean + Median + VIX + T-4 Return,1pt,Skewness,0.00627439482443868,1.235370203177064e-07,Skewness <= 1.014132,0.8
+model_0234,Skewness + Mean + Median + VIX + T-4 Return,1pt,Mean,1.4747293322389951e-06,0.0059966438129627955,Skewness <= 1.014132,0.8
+model_0234,Skewness + Mean + Median + VIX + T-4 Return,1pt,Median,-1.439046822322661e-06,0.007116909993135417,Skewness <= 1.014132,0.8
+model_0234,Skewness + Mean + Median + VIX + T-4 Return,1pt,VIX,0.0002705736359685396,0.12211255638881087,Skewness <= 1.014132,0.8
+model_0234,Skewness + Mean + Median + VIX + T-4 Return,1pt,T-4 Return,-0.03654325469992218,0.27124460737158507,Skewness <= 1.014132,0.8
+model_0234,Skewness + Mean + Median + VIX + T-4 Return,2pt,const,-0.0030092923411889506,0.5157799070458196,Skewness <= 1.014132,0.8
+model_0234,Skewness + Mean + Median + VIX + T-4 Return,2pt,Skewness,0.00630715823788147,1.3171159264821236e-07,Skewness <= 1.014132,0.8
+model_0234,Skewness + Mean + Median + VIX + T-4 Return,2pt,Mean,1.4742939390890356e-06,0.0060130423740541936,Skewness <= 1.014132,0.8
+model_0234,Skewness + Mean + Median + VIX + T-4 Return,2pt,Median,-1.4362387707870894e-06,0.007228680550054773,Skewness <= 1.014132,0.8
+model_0234,Skewness + Mean + Median + VIX + T-4 Return,2pt,VIX,0.0002713487154146142,0.12107776098644876,Skewness <= 1.014132,0.8
+model_0234,Skewness + Mean + Median + VIX + T-4 Return,2pt,T-4 Return,-0.03635936318022888,0.27368783632630894,Skewness <= 1.014132,0.8
+model_0026,Skewness + Std + T-2 Return,1pt,const,0.0037668342231010126,0.005406943606972913,Skewness <= 1.014132,0.8
+model_0026,Skewness + Std + T-2 Return,1pt,Skewness,0.005753453084438997,4.979386010083623e-07,Skewness <= 1.014132,0.8
+model_0026,Skewness + Std + T-2 Return,1pt,Std,-3.6628056935670756e-07,0.4761439738150852,Skewness <= 1.014132,0.8
+model_0026,Skewness + Std + T-2 Return,1pt,T-2 Return,0.05016316589126758,0.11750750941402235,Skewness <= 1.014132,0.8
+model_0026,Skewness + Std + T-2 Return,2pt,const,0.0037141141332371866,0.005980562151917818,Skewness <= 1.014132,0.8
+model_0026,Skewness + Std + T-2 Return,2pt,Skewness,0.0057624750780434,5.359034346746936e-07,Skewness <= 1.014132,0.8
+model_0026,Skewness + Std + T-2 Return,2pt,Std,-3.5229938889003554e-07,0.4932239108522769,Skewness <= 1.014132,0.8
+model_0026,Skewness + Std + T-2 Return,2pt,T-2 Return,0.0505915129019886,0.11443983479885811,Skewness <= 1.014132,0.8
+model_0009,Skewness + T-2 Return,1pt,const,0.0031996056835194003,0.0034555135330438564,Skewness <= 1.014132,0.8
+model_0009,Skewness + T-2 Return,1pt,Skewness,0.005790369257261249,4.074381800918556e-07,Skewness <= 1.014132,0.8
+model_0009,Skewness + T-2 Return,1pt,T-2 Return,0.0501183331244974,0.1177395679936469,Skewness <= 1.014132,0.8
+model_0009,Skewness + T-2 Return,2pt,const,0.003170235577554942,0.003703208772871171,Skewness <= 1.014132,0.8
+model_0009,Skewness + T-2 Return,2pt,Skewness,0.005802336571529623,4.301479542921888e-07,Skewness <= 1.014132,0.8
+model_0009,Skewness + T-2 Return,2pt,T-2 Return,0.050551084197876905,0.11462755085190961,Skewness <= 1.014132,0.8
+model_0119,Skewness + Std + T-2 Return + T-4 Return,1pt,const,0.000939158601355865,0.6527539396122506,Fear and Greed Index >= 27.000000 AND Std <= 2828.371222,0.7313807531380753
+model_0119,Skewness + Std + T-2 Return + T-4 Return,1pt,Skewness,0.004448135776482718,3.069773958469809e-06,Fear and Greed Index >= 27.000000 AND Std <= 2828.371222,0.7313807531380753
+model_0119,Skewness + Std + T-2 Return + T-4 Return,1pt,Std,8.829267781217946e-07,0.513502486074607,Fear and Greed Index >= 27.000000 AND Std <= 2828.371222,0.7313807531380753
+model_0119,Skewness + Std + T-2 Return + T-4 Return,1pt,T-2 Return,0.054538407617025594,0.11051811964444613,Fear and Greed Index >= 27.000000 AND Std <= 2828.371222,0.7313807531380753
+model_0119,Skewness + Std + T-2 Return + T-4 Return,1pt,T-4 Return,-0.016827933082187108,0.6293438494727482,Fear and Greed Index >= 27.000000 AND Std <= 2828.371222,0.7313807531380753
+model_0119,Skewness + Std + T-2 Return + T-4 Return,2pt,const,0.0008376827411269247,0.6886130397247282,Fear and Greed Index >= 27.000000 AND Std <= 2828.371222,0.7313807531380753
+model_0119,Skewness + Std + T-2 Return + T-4 Return,2pt,Skewness,0.004455675222755801,3.320086417605293e-06,Fear and Greed Index >= 27.000000 AND Std <= 2828.371222,0.7313807531380753
+model_0119,Skewness + Std + T-2 Return + T-4 Return,2pt,Std,9.423088724438672e-07,0.48667537372038017,Fear and Greed Index >= 27.000000 AND Std <= 2828.371222,0.7313807531380753
+model_0119,Skewness + Std + T-2 Return + T-4 Return,2pt,T-2 Return,0.054889757226856975,0.10830401630118948,Fear and Greed Index >= 27.000000 AND Std <= 2828.371222,0.7313807531380753
+model_0119,Skewness + Std + T-2 Return + T-4 Return,2pt,T-4 Return,-0.016810126459671462,0.6297361636246352,Fear and Greed Index >= 27.000000 AND Std <= 2828.371222,0.7313807531380753
+model_0055,Skewness + T-2 Return + T-4 Return,1pt,const,0.003306701218075997,0.0025840623540012444,Skewness <= 1.014132,0.8
+model_0055,Skewness + T-2 Return + T-4 Return,1pt,Skewness,0.005822992253450981,3.508876087951595e-07,Skewness <= 1.014132,0.8
+model_0055,Skewness + T-2 Return + T-4 Return,1pt,T-2 Return,0.05124660596284709,0.10973659053633866,Skewness <= 1.014132,0.8
+model_0055,Skewness + T-2 Return + T-4 Return,1pt,T-4 Return,-0.04201025061449956,0.2067429906661408,Skewness <= 1.014132,0.8
+model_0055,Skewness + T-2 Return + T-4 Return,2pt,const,0.003276440346897842,0.0027790445816500042,Skewness <= 1.014132,0.8
+model_0055,Skewness + T-2 Return + T-4 Return,2pt,Skewness,0.005833933136122632,3.723914360763774e-07,Skewness <= 1.014132,0.8
+model_0055,Skewness + T-2 Return + T-4 Return,2pt,T-2 Return,0.05167812600349531,0.10680481221015589,Skewness <= 1.014132,0.8
+model_0055,Skewness + T-2 Return + T-4 Return,2pt,T-4 Return,-0.04187653753050574,0.20821036837277868,Skewness <= 1.014132,0.8
+model_0115,Skewness + Std + T-1 Return + T-2 Return,1pt,const,0.004394271869187711,0.03941436417961938,Std <= 2300.918297,0.8
+model_0115,Skewness + Std + T-1 Return + T-2 Return,1pt,Skewness,0.004376890261598556,3.266812967912871e-06,Std <= 2300.918297,0.8
+model_0115,Skewness + Std + T-1 Return + T-2 Return,1pt,Std,-1.8685320334772544e-06,0.24207143582041007,Std <= 2300.918297,0.8
+model_0115,Skewness + Std + T-1 Return + T-2 Return,1pt,T-1 Return,-0.03313936799254845,0.3508900238759771,Std <= 2300.918297,0.8
+model_0115,Skewness + Std + T-1 Return + T-2 Return,1pt,T-2 Return,0.03538515849128972,0.2824849279345251,Std <= 2300.918297,0.8
+model_0115,Skewness + Std + T-1 Return + T-2 Return,2pt,const,0.004276054873272992,0.04538788256973931,Std <= 2300.918297,0.8
+model_0115,Skewness + Std + T-1 Return + T-2 Return,2pt,Skewness,0.004385451244402119,3.6780258466768404e-06,Std <= 2300.918297,0.8
+model_0115,Skewness + Std + T-1 Return + T-2 Return,2pt,Std,-1.7927170395773894e-06,0.2630112734106985,Std <= 2300.918297,0.8
+model_0115,Skewness + Std + T-1 Return + T-2 Return,2pt,T-1 Return,-0.03260253078532805,0.3589209571222538,Std <= 2300.918297,0.8
+model_0115,Skewness + Std + T-1 Return + T-2 Return,2pt,T-2 Return,0.03578381407080639,0.2772055538871557,Std <= 2300.918297,0.8
+model_0051,Skewness + T-1 Return + T-2 Return,1pt,const,0.0032175467991694138,0.0033164107840598744,Skewness <= 1.014132,0.8
+model_0051,Skewness + T-1 Return + T-2 Return,1pt,Skewness,0.005776557641215823,4.436642411594036e-07,Skewness <= 1.014132,0.8
+model_0051,Skewness + T-1 Return + T-2 Return,1pt,T-1 Return,-0.014086304721865305,0.6774054496403732,Skewness <= 1.014132,0.8
+model_0051,Skewness + T-1 Return + T-2 Return,1pt,T-2 Return,0.04980247903100834,0.12033351167689615,Skewness <= 1.014132,0.8
+model_0051,Skewness + T-1 Return + T-2 Return,2pt,const,0.003186849322424797,0.003566853230109551,Skewness <= 1.014132,0.8
+model_0051,Skewness + T-1 Return + T-2 Return,2pt,Skewness,0.005787448299305015,4.7187841553392233e-07,Skewness <= 1.014132,0.8
+model_0051,Skewness + T-1 Return + T-2 Return,2pt,T-1 Return,-0.013490307290800679,0.6903812262315882,Skewness <= 1.014132,0.8
+model_0051,Skewness + T-1 Return + T-2 Return,2pt,T-2 Return,0.050247489513823074,0.11708395515100811,Skewness <= 1.014132,0.8
+model_0314,Skewness + Std + T-1 Return + T-2 Return + T-4 Return,1pt,const,0.0044616229034589346,0.03645240873997519,Std <= 2300.918297,0.8
+model_0314,Skewness + Std + T-1 Return + T-2 Return + T-4 Return,1pt,Skewness,0.004366313762707631,3.4123505045007512e-06,Std <= 2300.918297,0.8
+model_0314,Skewness + Std + T-1 Return + T-2 Return + T-4 Return,1pt,Std,-1.8579267162140566e-06,0.24452130938217748,Std <= 2300.918297,0.8
+model_0314,Skewness + Std + T-1 Return + T-2 Return + T-4 Return,1pt,T-1 Return,-0.033050705103552645,0.35193905325171726,Std <= 2300.918297,0.8
+model_0314,Skewness + Std + T-1 Return + T-2 Return + T-4 Return,1pt,T-2 Return,0.03559299798681194,0.2794331032453299,Std <= 2300.918297,0.8
+model_0314,Skewness + Std + T-1 Return + T-2 Return + T-4 Return,1pt,T-4 Return,-0.046196068889293326,0.16231525371210007,Std <= 2300.918297,0.8
+model_0314,Skewness + Std + T-1 Return + T-2 Return + T-4 Return,2pt,const,0.004342572892084381,0.04209290033758747,Std <= 2300.918297,0.8
+model_0314,Skewness + Std + T-1 Return + T-2 Return + T-4 Return,2pt,Skewness,0.004374007300191881,3.857511606743139e-06,Std <= 2300.918297,0.8
+model_0314,Skewness + Std + T-1 Return + T-2 Return + T-4 Return,2pt,Std,-1.78156970850052e-06,0.26575807270076063,Std <= 2300.918297,0.8
+model_0314,Skewness + Std + T-1 Return + T-2 Return + T-4 Return,2pt,T-1 Return,-0.032517583020519825,0.35993634647007366,Std <= 2300.918297,0.8
+model_0314,Skewness + Std + T-1 Return + T-2 Return + T-4 Return,2pt,T-2 Return,0.03598977711313258,0.2742183874953812,Std <= 2300.918297,0.8
+model_0314,Skewness + Std + T-1 Return + T-2 Return + T-4 Return,2pt,T-4 Return,-0.046079490734360386,0.1634310885417097,Std <= 2300.918297,0.8
+model_0174,Skewness + T-1 Return + T-2 Return + T-4 Return,1pt,const,0.0033245744230446716,0.002479064834401571,Skewness <= 1.014132,0.8
+model_0174,Skewness + T-1 Return + T-2 Return + T-4 Return,1pt,Skewness,0.005809204247791613,3.8227022203904447e-07,Skewness <= 1.014132,0.8
+model_0174,Skewness + T-1 Return + T-2 Return + T-4 Return,1pt,T-1 Return,-0.014053935086740493,0.6780104573054861,Skewness <= 1.014132,0.8
+model_0174,Skewness + T-1 Return + T-2 Return + T-4 Return,1pt,T-2 Return,0.050931196577050745,0.11219366907296768,Skewness <= 1.014132,0.8
+model_0174,Skewness + T-1 Return + T-2 Return + T-4 Return,1pt,T-4 Return,-0.041999783749593414,0.20705377320818408,Skewness <= 1.014132,0.8
+model_0174,Skewness + T-1 Return + T-2 Return + T-4 Return,2pt,const,0.003292984083899958,0.0026758547267435547,Skewness <= 1.014132,0.8
+model_0174,Skewness + T-1 Return + T-2 Return + T-4 Return,2pt,Skewness,0.00581907500805325,4.087195767040184e-07,Skewness <= 1.014132,0.8
+model_0174,Skewness + T-1 Return + T-2 Return + T-4 Return,2pt,T-1 Return,-0.013455632882518146,0.6910463250428199,Skewness <= 1.014132,0.8
+model_0174,Skewness + T-1 Return + T-2 Return + T-4 Return,2pt,T-2 Return,0.0513750218927437,0.10913055785954405,Skewness <= 1.014132,0.8
+model_0174,Skewness + T-1 Return + T-2 Return + T-4 Return,2pt,T-4 Return,-0.0418657710810694,0.20852882578799056,Skewness <= 1.014132,0.8
+model_0062,Skewness + Mean + Std + T-2 Return,1pt,const,0.004011332608594952,0.0506746373100353,Kurtosis >= -0.841103,0.8
+model_0062,Skewness + Mean + Std + T-2 Return,1pt,Skewness,0.005542560141279853,5.940028170145082e-09,Kurtosis >= -0.841103,0.8
+model_0062,Skewness + Mean + Std + T-2 Return,1pt,Mean,9.951064777104513e-08,0.03127121950783778,Kurtosis >= -0.841103,0.8
+model_0062,Skewness + Mean + Std + T-2 Return,1pt,Std,-3.8973678702128745e-06,0.005917377154494412,Kurtosis >= -0.841103,0.8
+model_0062,Skewness + Mean + Std + T-2 Return,1pt,T-2 Return,0.0279943936341165,0.38021043997886605,Kurtosis >= -0.841103,0.8
+model_0062,Skewness + Mean + Std + T-2 Return,2pt,const,0.0038693498548930784,0.05941930573732328,Kurtosis >= -0.841103,0.8
+model_0062,Skewness + Mean + Std + T-2 Return,2pt,Skewness,0.005590035011555826,5.431939702775437e-09,Kurtosis >= -0.841103,0.8
+model_0062,Skewness + Mean + Std + T-2 Return,2pt,Mean,1.010394416900974e-07,0.028814691339701954,Kurtosis >= -0.841103,0.8
+model_0062,Skewness + Mean + Std + T-2 Return,2pt,Std,-3.86706103574153e-06,0.006295432140482496,Kurtosis >= -0.841103,0.8
+model_0062,Skewness + Mean + Std + T-2 Return,2pt,T-2 Return,0.028410374120075424,0.3731386677170002,Kurtosis >= -0.841103,0.8
+model_0203,Skewness + Mean + Std + T-2 Return + T-4 Return,1pt,const,0.004020117964560517,0.05026585786946136,Kurtosis >= -0.841103,0.8
+model_0203,Skewness + Mean + Std + T-2 Return + T-4 Return,1pt,Skewness,0.005542090489964346,6.0365038036935976e-09,Kurtosis >= -0.841103,0.8
+model_0203,Skewness + Mean + Std + T-2 Return + T-4 Return,1pt,Mean,9.900020522868781e-08,0.032248552526895576,Kurtosis >= -0.841103,0.8
+model_0203,Skewness + Mean + Std + T-2 Return + T-4 Return,1pt,Std,-3.860671797964901e-06,0.006483570214441162,Kurtosis >= -0.841103,0.8
+model_0203,Skewness + Mean + Std + T-2 Return + T-4 Return,1pt,T-2 Return,0.028160581428383347,0.3775924175197989,Kurtosis >= -0.841103,0.8
+model_0203,Skewness + Mean + Std + T-2 Return + T-4 Return,1pt,T-4 Return,-0.017464404330619826,0.5941804736824422,Kurtosis >= -0.841103,0.8
+model_0203,Skewness + Mean + Std + T-2 Return + T-4 Return,2pt,const,0.0038780686214386602,0.05895376056095337,Kurtosis >= -0.841103,0.8
+model_0203,Skewness + Mean + Std + T-2 Return + T-4 Return,2pt,Skewness,0.005589094313003244,5.537327311776876e-09,Kurtosis >= -0.841103,0.8
+model_0203,Skewness + Mean + Std + T-2 Return + T-4 Return,2pt,Mean,1.0053064460835462e-07,0.029725338535234756,Kurtosis >= -0.841103,0.8
+model_0203,Skewness + Mean + Std + T-2 Return + T-4 Return,2pt,Std,-3.8307138519784535e-06,0.006888820515384421,Kurtosis >= -0.841103,0.8
+model_0203,Skewness + Mean + Std + T-2 Return + T-4 Return,2pt,T-2 Return,0.02857451778582772,0.3705893686544234,Kurtosis >= -0.841103,0.8
+model_0203,Skewness + Mean + Std + T-2 Return + T-4 Return,2pt,T-4 Return,-0.017274526004638247,0.5981647497640896,Kurtosis >= -0.841103,0.8
+model_0196,Skewness + Mean + Std + VIX + T-2 Return,1pt,const,-0.0012080470601571703,0.785138564951586,Kurtosis >= -0.841103,0.8
+model_0196,Skewness + Mean + Std + VIX + T-2 Return,1pt,Skewness,0.005555949655021998,5.405903376647875e-09,Kurtosis >= -0.841103,0.8
+model_0196,Skewness + Mean + Std + VIX + T-2 Return,1pt,Mean,1.1922620540005037e-07,0.01403300869255677,Kurtosis >= -0.841103,0.8
+model_0196,Skewness + Mean + Std + VIX + T-2 Return,1pt,Std,-3.989651550194514e-06,0.004878269629899041,Kurtosis >= -0.841103,0.8
+model_0196,Skewness + Mean + Std + VIX + T-2 Return,1pt,VIX,0.0002197295684296699,0.18417585637252398,Kurtosis >= -0.841103,0.8
+model_0196,Skewness + Mean + Std + VIX + T-2 Return,1pt,T-2 Return,0.02837386132130961,0.3736160518950149,Kurtosis >= -0.841103,0.8
+model_0196,Skewness + Mean + Std + VIX + T-2 Return,2pt,const,-0.0013592931873331526,0.7590194923930169,Kurtosis >= -0.841103,0.8
+model_0196,Skewness + Mean + Std + VIX + T-2 Return,2pt,Skewness,0.00560387493693521,4.930935894297345e-09,Kurtosis >= -0.841103,0.8
+model_0196,Skewness + Mean + Std + VIX + T-2 Return,2pt,Mean,1.20799509782776e-07,0.012845618671671622,Kurtosis >= -0.841103,0.8
+model_0196,Skewness + Mean + Std + VIX + T-2 Return,2pt,Std,-3.9597582221833005e-06,0.005190812528107556,Kurtosis >= -0.841103,0.8
+model_0196,Skewness + Mean + Std + VIX + T-2 Return,2pt,VIX,0.00022011153516638966,0.18337715095872337,Kurtosis >= -0.841103,0.8
+model_0196,Skewness + Mean + Std + VIX + T-2 Return,2pt,T-2 Return,0.02879184352043431,0.36658307079749153,Kurtosis >= -0.841103,0.8
+model_0003,Skewness + Std,1pt,const,0.003906760171314965,0.00386797870218891,Skewness <= 1.014132,0.8
+model_0003,Skewness + Std,1pt,Skewness,0.005753840437110802,5.068714076582659e-07,Skewness <= 1.014132,0.8
+model_0003,Skewness + Std,1pt,Std,-3.6469901837402996e-07,0.4783844376139197,Skewness <= 1.014132,0.8
+model_0003,Skewness + Std,2pt,const,0.003853533599419022,0.004297226462571016,Skewness <= 1.014132,0.8
+model_0003,Skewness + Std,2pt,Skewness,0.005758091637828632,5.574580611604453e-07,Skewness <= 1.014132,0.8
+model_0003,Skewness + Std,2pt,Std,-3.508035707322383e-07,0.4953981748180132,Skewness <= 1.014132,0.8
+model_0001,Skewness,1pt,const,0.003341854152168868,0.0022011406868588214,Skewness <= 1.014132,0.8
+model_0001,Skewness,1pt,Skewness,0.005790597007936705,4.151323614352131e-07,Skewness <= 1.014132,0.8
+model_0001,Skewness,2pt,const,0.00331185150475671,0.0023709082709246695,Skewness <= 1.014132,0.8
+model_0001,Skewness,2pt,Skewness,0.0057977875072200286,4.4797599379932804e-07,Skewness <= 1.014132,0.8
+model_0199,Skewness + Mean + Std + T-1 Return + T-2 Return,1pt,const,0.003738244933322082,0.0814008904480955,Std <= 2300.918297,0.8
+model_0199,Skewness + Mean + Std + T-1 Return + T-2 Return,1pt,Skewness,0.004976398292225549,3.1459697747507957e-07,Std <= 2300.918297,0.8
+model_0199,Skewness + Mean + Std + T-1 Return + T-2 Return,1pt,Mean,1.3242822723394277e-07,0.017380497610818064,Std <= 2300.918297,0.8
+model_0199,Skewness + Mean + Std + T-1 Return + T-2 Return,1pt,Std,-5.767086300713923e-06,0.011700021079098014,Std <= 2300.918297,0.8
+model_0199,Skewness + Mean + Std + T-1 Return + T-2 Return,1pt,T-1 Return,-0.03271545586490192,0.35591052348234686,Std <= 2300.918297,0.8
+model_0199,Skewness + Mean + Std + T-1 Return + T-2 Return,1pt,T-2 Return,0.03249619934000039,0.32275949527378534,Std <= 2300.918297,0.8
+model_0199,Skewness + Mean + Std + T-1 Return + T-2 Return,2pt,const,0.003597477361295689,0.09424707603903325,Std <= 2300.918297,0.8
+model_0199,Skewness + Mean + Std + T-1 Return + T-2 Return,2pt,Skewness,0.004998792097813509,3.460258049316453e-07,Std <= 2300.918297,0.8
+model_0199,Skewness + Mean + Std + T-1 Return + T-2 Return,2pt,Mean,1.3299204398638276e-07,0.01694521014063764,Std <= 2300.918297,0.8
+model_0199,Skewness + Mean + Std + T-1 Return + T-2 Return,2pt,Std,-5.696118555292617e-06,0.012765405689225852,Std <= 2300.918297,0.8
+model_0199,Skewness + Mean + Std + T-1 Return + T-2 Return,2pt,T-1 Return,-0.032079537386430435,0.3655011746998357,Std <= 2300.918297,0.8
+model_0199,Skewness + Mean + Std + T-1 Return + T-2 Return,2pt,T-2 Return,0.032957074348998236,0.3160254087100841,Std <= 2300.918297,0.8
+model_0028,Skewness + Std + T-4 Return,1pt,const,0.005183590479554447,0.021447160641365672,Skewness <= 1.196093 AND Std <= 2296.819098,0.7196652719665272
+model_0028,Skewness + Std + T-4 Return,1pt,Skewness,0.004180044067754865,0.00019909305870171567,Skewness <= 1.196093 AND Std <= 2296.819098,0.7196652719665272
+model_0028,Skewness + Std + T-4 Return,1pt,Std,-2.4631972073448154e-06,0.1437232787050111,Skewness <= 1.196093 AND Std <= 2296.819098,0.7196652719665272
+model_0028,Skewness + Std + T-4 Return,1pt,T-4 Return,-0.07310721046991527,0.03708271610511179,Skewness <= 1.196093 AND Std <= 2296.819098,0.7196652719665272
+model_0028,Skewness + Std + T-4 Return,2pt,const,0.005055814695944099,0.024919092765482802,Skewness <= 1.196093 AND Std <= 2296.819098,0.7196652719665272
+model_0028,Skewness + Std + T-4 Return,2pt,Skewness,0.004169078761630337,0.00023024258890152615,Skewness <= 1.196093 AND Std <= 2296.819098,0.7196652719665272
+model_0028,Skewness + Std + T-4 Return,2pt,Std,-2.3845433431382946e-06,0.1581443866679398,Skewness <= 1.196093 AND Std <= 2296.819098,0.7196652719665272
+model_0028,Skewness + Std + T-4 Return,2pt,T-4 Return,-0.07289283623445789,0.03767475271636381,Skewness <= 1.196093 AND Std <= 2296.819098,0.7196652719665272
+model_0011,Skewness + T-4 Return,1pt,const,0.003448253253169899,0.0016363319743052818,Skewness <= 1.014132,0.8
+model_0011,Skewness + T-4 Return,1pt,Skewness,0.005822071807844187,3.600199528890533e-07,Skewness <= 1.014132,0.8
+model_0011,Skewness + T-4 Return,1pt,T-4 Return,-0.04052529217904735,0.22343063300537094,Skewness <= 1.014132,0.8
+model_0011,Skewness + T-4 Return,2pt,const,0.003417294898473723,0.0017692390270578203,Skewness <= 1.014132,0.8
+model_0011,Skewness + T-4 Return,2pt,Skewness,0.005828154100254676,3.906990132479371e-07,Skewness <= 1.014132,0.8
+model_0011,Skewness + T-4 Return,2pt,T-4 Return,-0.04037599652122425,0.22516951000065583,Skewness <= 1.014132,0.8
+model_0025,Skewness + Std + T-1 Return,1pt,const,0.003935862329551086,0.0036615260787811093,Skewness <= 1.014132,0.8
+model_0025,Skewness + Std + T-1 Return,1pt,Skewness,0.0057375446215716976,5.577012038474789e-07,Skewness <= 1.014132,0.8
+model_0025,Skewness + Std + T-1 Return,1pt,Std,-3.7101230293642316e-07,0.4711353345476338,Skewness <= 1.014132,0.8
+model_0025,Skewness + Std + T-1 Return,1pt,T-1 Return,-0.015969305335881544,0.6375594916237629,Skewness <= 1.014132,0.8
+model_0025,Skewness + Std + T-1 Return,2pt,const,0.003881020101284104,0.004083176823942992,Skewness <= 1.014132,0.8
+model_0025,Skewness + Std + T-1 Return,2pt,Skewness,0.00574045765075365,6.185372827689931e-07,Skewness <= 1.014132,0.8
+model_0025,Skewness + Std + T-1 Return,2pt,Std,-3.5697021380761614e-07,0.4881851539650057,Skewness <= 1.014132,0.8
+model_0025,Skewness + Std + T-1 Return,2pt,T-1 Return,-0.015374142089756196,0.6502199885575524,Skewness <= 1.014132,0.8
+model_0008,Skewness + T-1 Return,1pt,const,0.003360407789237829,0.0021041648488664784,Skewness <= 1.014132,0.8
+model_0008,Skewness + T-1 Return,1pt,Skewness,0.005775561060527212,4.542867321293752e-07,Skewness <= 1.014132,0.8
+model_0008,Skewness + T-1 Return,1pt,T-1 Return,-0.015333392408883637,0.6508201211381254,Skewness <= 1.014132,0.8
+model_0008,Skewness + T-1 Return,2pt,const,0.0033290906490017315,0.0022748887029739925,Skewness <= 1.014132,0.8
+model_0008,Skewness + T-1 Return,2pt,Skewness,0.005781535133902496,4.94095331965372e-07,Skewness <= 1.014132,0.8
+model_0008,Skewness + T-1 Return,2pt,T-1 Return,-0.01475339612493217,0.6632574051484357,Skewness <= 1.014132,0.8
+model_0117,Skewness + Std + T-1 Return + T-4 Return,1pt,const,0.005308205001211753,0.018618530061580756,Skewness <= 1.196093 AND Std <= 2296.819098,0.7196652719665272
+model_0117,Skewness + Std + T-1 Return + T-4 Return,1pt,Skewness,0.004146492283294915,0.00022409712686627728,Skewness <= 1.196093 AND Std <= 2296.819098,0.7196652719665272
+model_0117,Skewness + Std + T-1 Return + T-4 Return,1pt,Std,-2.4944883246183713e-06,0.1386683166199956,Skewness <= 1.196093 AND Std <= 2296.819098,0.7196652719665272
+model_0117,Skewness + Std + T-1 Return + T-4 Return,1pt,T-1 Return,-0.04375738397151781,0.2384015637170765,Skewness <= 1.196093 AND Std <= 2296.819098,0.7196652719665272
+model_0117,Skewness + Std + T-1 Return + T-4 Return,1pt,T-4 Return,-0.07349856884774895,0.03604980688737096,Skewness <= 1.196093 AND Std <= 2296.819098,0.7196652719665272
+model_0117,Skewness + Std + T-1 Return + T-4 Return,2pt,const,0.00518025288601243,0.021699978682262925,Skewness <= 1.196093 AND Std <= 2296.819098,0.7196652719665272
+model_0117,Skewness + Std + T-1 Return + T-4 Return,2pt,Skewness,0.004129994584093296,0.0002641242355792291,Skewness <= 1.196093 AND Std <= 2296.819098,0.7196652719665272
+model_0117,Skewness + Std + T-1 Return + T-4 Return,2pt,Std,-2.417652957445939e-06,0.15242825113025318,Skewness <= 1.196093 AND Std <= 2296.819098,0.7196652719665272
+model_0117,Skewness + Std + T-1 Return + T-4 Return,2pt,T-1 Return,-0.04321247264929153,0.24443703614760554,Skewness <= 1.196093 AND Std <= 2296.819098,0.7196652719665272
+model_0117,Skewness + Std + T-1 Return + T-4 Return,2pt,T-4 Return,-0.07328394253530202,0.03663275395422728,Skewness <= 1.196093 AND Std <= 2296.819098,0.7196652719665272
+model_0012,Skewness + Mean + Std,1pt,const,0.0040929273799311505,0.045913875096562355,Kurtosis >= -0.841103,0.8
+model_0012,Skewness + Mean + Std,1pt,Skewness,0.005536507438030953,6.1329930027865776e-09,Kurtosis >= -0.841103,0.8
+model_0012,Skewness + Mean + Std,1pt,Mean,9.820106772769225e-08,0.03344519780479668,Kurtosis >= -0.841103,0.8
+model_0012,Skewness + Mean + Std,1pt,Std,-3.851817751896349e-06,0.0064800832911921,Kurtosis >= -0.841103,0.8
+model_0012,Skewness + Mean + Std,2pt,const,0.003952416137406703,0.053896307269577504,Kurtosis >= -0.841103,0.8
+model_0012,Skewness + Mean + Std,2pt,Skewness,0.005582006392658312,5.6747456077999165e-09,Kurtosis >= -0.841103,0.8
+model_0012,Skewness + Mean + Std,2pt,Mean,9.969624206573103e-08,0.030896065828680222,Kurtosis >= -0.841103,0.8
+model_0012,Skewness + Mean + Std,2pt,Std,-3.820822840935951e-06,0.00690155777155716,Kurtosis >= -0.841103,0.8
+model_0053,Skewness + T-1 Return + T-4 Return,1pt,const,0.003466798295560407,0.0015633182919754431,Skewness <= 1.014132,0.8
+model_0053,Skewness + T-1 Return + T-4 Return,1pt,Skewness,0.005807038620624841,3.9419214986231567e-07,Skewness <= 1.014132,0.8
+model_0053,Skewness + T-1 Return + T-4 Return,1pt,T-1 Return,-0.015329430906758576,0.6508219115201106,Skewness <= 1.014132,0.8
+model_0053,Skewness + T-1 Return + T-4 Return,1pt,T-4 Return,-0.0405238443775658,0.22364053290831817,Skewness <= 1.014132,0.8
+model_0053,Skewness + T-1 Return + T-4 Return,2pt,const,0.0034345212828844514,0.0016967157614110136,Skewness <= 1.014132,0.8
+model_0053,Skewness + T-1 Return + T-4 Return,2pt,Skewness,0.005811906832802343,4.3116813347374465e-07,Skewness <= 1.014132,0.8
+model_0053,Skewness + T-1 Return + T-4 Return,2pt,T-1 Return,-0.014747290514735157,0.6633101333494775,Skewness <= 1.014132,0.8
+model_0053,Skewness + T-1 Return + T-4 Return,2pt,T-4 Return,-0.04037384242117141,0.22539169399148312,Skewness <= 1.014132,0.8
+model_0064,Skewness + Mean + Std + T-4 Return,1pt,const,0.0041020470476244445,0.0455231924767422,Kurtosis >= -0.841103,0.8
+model_0064,Skewness + Mean + Std + T-4 Return,1pt,Skewness,0.0055360100402059515,6.234444864258646e-09,Kurtosis >= -0.841103,0.8
+model_0064,Skewness + Mean + Std + T-4 Return,1pt,Mean,9.769124060677964e-08,0.03448050133604225,Kurtosis >= -0.841103,0.8
+model_0064,Skewness + Mean + Std + T-4 Return,1pt,Std,-3.815449743873636e-06,0.007090207698185455,Kurtosis >= -0.841103,0.8
+model_0064,Skewness + Mean + Std + T-4 Return,1pt,T-4 Return,-0.01718166332470718,0.600104995982466,Kurtosis >= -0.841103,0.8
+model_0064,Skewness + Mean + Std + T-4 Return,2pt,const,0.003961462279440595,0.0534509822091849,Kurtosis >= -0.841103,0.8
+model_0064,Skewness + Mean + Std + T-4 Return,2pt,Skewness,0.005581035677469859,5.786584564698348e-09,Kurtosis >= -0.841103,0.8
+model_0064,Skewness + Mean + Std + T-4 Return,2pt,Mean,9.918825093519261e-08,0.03186269532940953,Kurtosis >= -0.841103,0.8
+model_0064,Skewness + Mean + Std + T-4 Return,2pt,Std,-3.7848157111398634e-06,0.007541272002810074,Kurtosis >= -0.841103,0.8
+model_0064,Skewness + Mean + Std + T-4 Return,2pt,T-4 Return,-0.016988051146620567,0.6041923269062361,Kurtosis >= -0.841103,0.8
+model_0060,Skewness + Mean + Std + VIX,1pt,const,-0.0010940373940679662,0.8048845529114927,Kurtosis >= -0.841103,0.8
+model_0060,Skewness + Mean + Std + VIX,1pt,Skewness,0.005549735063747669,5.589528622552588e-09,Kurtosis >= -0.841103,0.8
+model_0060,Skewness + Mean + Std + VIX,1pt,Mean,1.1778068991643139e-07,0.015167394716214018,Kurtosis >= -0.841103,0.8
+model_0060,Skewness + Mean + Std + VIX,1pt,Std,-3.9429340101983305e-06,0.005363402813083442,Kurtosis >= -0.841103,0.8
+model_0060,Skewness + Mean + Std + VIX,1pt,VIX,0.00021841122365354263,0.18675348982092188,Kurtosis >= -0.841103,0.8
+model_0060,Skewness + Mean + Std + VIX,2pt,const,-0.0012432287227723807,0.7789241058470346,Kurtosis >= -0.841103,0.8
+model_0060,Skewness + Mean + Std + VIX,2pt,Skewness,0.005595654764228103,5.159848207440835e-09,Kurtosis >= -0.841103,0.8
+model_0060,Skewness + Mean + Std + VIX,2pt,Mean,1.1931786763848256e-07,0.01392282532960273,Kurtosis >= -0.841103,0.8
+model_0060,Skewness + Mean + Std + VIX,2pt,Std,-3.9123376055172014e-06,0.005713551311252734,Kurtosis >= -0.841103,0.8
+model_0060,Skewness + Mean + Std + VIX,2pt,VIX,0.0002187690685998276,0.18600043766403,Kurtosis >= -0.841103,0.8
+model_0288,Skewness + Std + Median + VIX + T-2 Return,1pt,const,-0.0010118408965021667,0.8194575605075167,Kurtosis >= -0.841103,0.8
+model_0288,Skewness + Std + Median + VIX + T-2 Return,1pt,Skewness,0.005541988464775794,5.931657718542667e-09,Kurtosis >= -0.841103,0.8
+model_0288,Skewness + Std + Median + VIX + T-2 Return,1pt,Std,-3.951904709005541e-06,0.005777549987504713,Kurtosis >= -0.841103,0.8
+model_0288,Skewness + Std + Median + VIX + T-2 Return,1pt,Median,1.1509956181930489e-07,0.018422735847961724,Kurtosis >= -0.841103,0.8
+model_0288,Skewness + Std + Median + VIX + T-2 Return,1pt,VIX,0.000215111645591418,0.19381442973990184,Kurtosis >= -0.841103,0.8
+model_0288,Skewness + Std + Median + VIX + T-2 Return,1pt,T-2 Return,0.02850476465089683,0.371589669398637,Kurtosis >= -0.841103,0.8
+model_0288,Skewness + Std + Median + VIX + T-2 Return,2pt,const,-0.0011633000069472643,0.7930061296854434,Kurtosis >= -0.841103,0.8
+model_0288,Skewness + Std + Median + VIX + T-2 Return,2pt,Skewness,0.0055893552808616,5.427963808716e-09,Kurtosis >= -0.841103,0.8
+model_0288,Skewness + Std + Median + VIX + T-2 Return,2pt,Std,-3.923014049210384e-06,0.00612468886729551,Kurtosis >= -0.841103,0.8
+model_0288,Skewness + Std + Median + VIX + T-2 Return,2pt,Median,1.1669228215699347e-07,0.01690837072434805,Kurtosis >= -0.841103,0.8
+model_0288,Skewness + Std + Median + VIX + T-2 Return,2pt,VIX,0.00021550592465287613,0.19296332137757444,Kurtosis >= -0.841103,0.8
+model_0288,Skewness + Std + Median + VIX + T-2 Return,2pt,T-2 Return,0.02892548254788683,0.36453966727716847,Kurtosis >= -0.841103,0.8
+model_0198,Skewness + Mean + Std + VIX + T-4 Return,1pt,const,-0.0010185541425503232,0.8182879116237921,Kurtosis >= -0.841103,0.8
+model_0198,Skewness + Mean + Std + VIX + T-4 Return,1pt,Skewness,0.005549110585201854,5.691872749879253e-09,Kurtosis >= -0.841103,0.8
+model_0198,Skewness + Mean + Std + VIX + T-4 Return,1pt,Mean,1.1706262486538121e-07,0.015888839259561225,Kurtosis >= -0.841103,0.8
+model_0198,Skewness + Mean + Std + VIX + T-4 Return,1pt,Std,-3.908619591536727e-06,0.005859224810502989,Kurtosis >= -0.841103,0.8
+model_0198,Skewness + Mean + Std + VIX + T-4 Return,1pt,VIX,0.00021558266143981546,0.19298521713951924,Kurtosis >= -0.841103,0.8
+model_0198,Skewness + Mean + Std + VIX + T-4 Return,1pt,T-4 Return,-0.015653983805872067,0.6329979505871922,Kurtosis >= -0.841103,0.8
+model_0198,Skewness + Mean + Std + VIX + T-4 Return,2pt,const,-0.0011686243237444146,0.7920878888500624,Kurtosis >= -0.841103,0.8
+model_0198,Skewness + Mean + Std + VIX + T-4 Return,2pt,Skewness,0.005594597201504338,5.2694752215884115e-09,Kurtosis >= -0.841103,0.8
+model_0198,Skewness + Mean + Std + VIX + T-4 Return,2pt,Mean,1.1860500732929268e-07,0.014589306089527214,Kurtosis >= -0.841103,0.8
+model_0198,Skewness + Mean + Std + VIX + T-4 Return,2pt,Std,-3.878407385157593e-06,0.006233146279310124,Kurtosis >= -0.841103,0.8
+model_0198,Skewness + Mean + Std + VIX + T-4 Return,2pt,VIX,0.0002159743193124575,0.19214708561463134,Kurtosis >= -0.841103,0.8
+model_0198,Skewness + Mean + Std + VIX + T-4 Return,2pt,T-4 Return,-0.015456598569648474,0.637264300529264,Kurtosis >= -0.841103,0.8
+model_0084,Skewness + Mean + VIX + T-2 Return,1pt,const,-0.00443816752750988,0.3369838099342125,Skewness <= 1.014132,0.8
+model_0084,Skewness + Mean + VIX + T-2 Return,1pt,Skewness,0.005919098849007235,5.525544760316814e-07,Skewness <= 1.014132,0.8
+model_0084,Skewness + Mean + VIX + T-2 Return,1pt,Mean,3.557934305109155e-08,0.36467877763899603,Skewness <= 1.014132,0.8
+model_0084,Skewness + Mean + VIX + T-2 Return,1pt,VIX,0.00029798381082932294,0.08906884039550404,Skewness <= 1.014132,0.8
+model_0084,Skewness + Mean + VIX + T-2 Return,1pt,T-2 Return,0.0513570601623251,0.10886732949367725,Skewness <= 1.014132,0.8
+model_0084,Skewness + Mean + VIX + T-2 Return,2pt,const,-0.004586631205851521,0.32113075786945544,Skewness <= 1.014132,0.8
+model_0084,Skewness + Mean + VIX + T-2 Return,2pt,Skewness,0.005957837944242814,5.663664657920905e-07,Skewness <= 1.014132,0.8
+model_0084,Skewness + Mean + VIX + T-2 Return,2pt,Mean,3.795722201356818e-08,0.33499843012960373,Skewness <= 1.014132,0.8
+model_0084,Skewness + Mean + VIX + T-2 Return,2pt,VIX,0.0002987325100957989,0.08828223729159072,Skewness <= 1.014132,0.8
+model_0084,Skewness + Mean + VIX + T-2 Return,2pt,T-2 Return,0.051793610839905226,0.10590557830036702,Skewness <= 1.014132,0.8
+model_0061,Skewness + Mean + Std + T-1 Return,1pt,const,0.003866827465735824,0.07095034856248826,Std <= 2300.918297,0.8
+model_0061,Skewness + Mean + Std + T-1 Return,1pt,Skewness,0.004952309480810709,3.5476748977464963e-07,Std <= 2300.918297,0.8
+model_0061,Skewness + Mean + Std + T-1 Return,1pt,Mean,1.3445782841723912e-07,0.015667324149429226,Std <= 2300.918297,0.8
+model_0061,Skewness + Mean + Std + T-1 Return,1pt,Std,-5.896651407784035e-06,0.009829254514062375,Std <= 2300.918297,0.8
+model_0061,Skewness + Mean + Std + T-1 Return,1pt,T-1 Return,-0.03488801976814236,0.32395150546086693,Std <= 2300.918297,0.8
+model_0061,Skewness + Mean + Std + T-1 Return,2pt,const,0.003729395698949039,0.0822236174961952,Std <= 2300.918297,0.8
+model_0061,Skewness + Mean + Std + T-1 Return,2pt,Skewness,0.004971436217373346,3.958407063796937e-07,Std <= 2300.918297,0.8
+model_0061,Skewness + Mean + Std + T-1 Return,2pt,Mean,1.3499819891477288e-07,0.015292959211412055,Std <= 2300.918297,0.8
+model_0061,Skewness + Mean + Std + T-1 Return,2pt,Std,-5.827125398649859e-06,0.01072637869253914,Std <= 2300.918297,0.8
+model_0061,Skewness + Mean + Std + T-1 Return,2pt,T-1 Return,-0.03429299009523414,0.3324357637816584,Std <= 2300.918297,0.8
+model_0201,Skewness + Mean + Std + T-1 Return + T-4 Return,1pt,const,0.003935203475744085,0.06604863369164311,Std <= 2300.918297,0.8
+model_0201,Skewness + Mean + Std + T-1 Return + T-4 Return,1pt,Skewness,0.004941098253925031,3.722006727800745e-07,Std <= 2300.918297,0.8
+model_0201,Skewness + Mean + Std + T-1 Return + T-4 Return,1pt,Mean,1.3435121968794217e-07,0.015698545544164805,Std <= 2300.918297,0.8
+model_0201,Skewness + Mean + Std + T-1 Return + T-4 Return,1pt,Std,-5.883419468346734e-06,0.009959012507040468,Std <= 2300.918297,0.8
+model_0201,Skewness + Mean + Std + T-1 Return + T-4 Return,1pt,T-1 Return,-0.0348142491718425,0.3247365088842942,Std <= 2300.918297,0.8
+model_0201,Skewness + Mean + Std + T-1 Return + T-4 Return,1pt,T-4 Return,-0.04592461139853583,0.1637554429262332,Std <= 2300.918297,0.8
+model_0201,Skewness + Mean + Std + T-1 Return + T-4 Return,2pt,const,0.003797153973240407,0.07675177965470237,Std <= 2300.918297,0.8
+model_0201,Skewness + Mean + Std + T-1 Return + T-4 Return,2pt,Skewness,0.004959104731349211,4.176676071574801e-07,Std <= 2300.918297,0.8
+model_0201,Skewness + Mean + Std + T-1 Return + T-4 Return,2pt,Mean,1.3483820726585242e-07,0.015364664224939324,Std <= 2300.918297,0.8
+model_0201,Skewness + Mean + Std + T-1 Return + T-4 Return,2pt,Std,-5.81181719953573e-06,0.01089622090937487,Std <= 2300.918297,0.8
+model_0201,Skewness + Mean + Std + T-1 Return + T-4 Return,2pt,T-1 Return,-0.03422330736011496,0.33318398023110607,Std <= 2300.918297,0.8
+model_0201,Skewness + Mean + Std + T-1 Return + T-4 Return,2pt,T-4 Return,-0.04575115464056643,0.16540365637463592,Std <= 2300.918297,0.8
+model_0255,Skewness + Mean + VIX + T-2 Return + T-4 Return,1pt,const,-0.004069418955844993,0.3796475878026372,Skewness <= 1.014132,0.8
+model_0255,Skewness + Mean + VIX + T-2 Return + T-4 Return,1pt,Skewness,0.0059471374032412155,4.893862504359809e-07,Skewness <= 1.014132,0.8
+model_0255,Skewness + Mean + VIX + T-2 Return + T-4 Return,1pt,Mean,3.456328054918805e-08,0.3785511705291771,Skewness <= 1.014132,0.8
+model_0255,Skewness + Mean + VIX + T-2 Return + T-4 Return,1pt,VIX,0.0002869600615629946,0.10194647560397177,Skewness <= 1.014132,0.8
+model_0255,Skewness + Mean + VIX + T-2 Return + T-4 Return,1pt,T-2 Return,0.05235880875584052,0.10220093289280976,Skewness <= 1.014132,0.8
+model_0255,Skewness + Mean + VIX + T-2 Return + T-4 Return,1pt,T-4 Return,-0.03905808607354565,0.2409157856190236,Skewness <= 1.014132,0.8
+model_0255,Skewness + Mean + VIX + T-2 Return + T-4 Return,2pt,const,-0.004219852394127262,0.3623413112717744,Skewness <= 1.014132,0.8
+model_0255,Skewness + Mean + VIX + T-2 Return + T-4 Return,2pt,Skewness,0.005984802060444782,5.043113717411025e-07,Skewness <= 1.014132,0.8
+model_0255,Skewness + Mean + VIX + T-2 Return + T-4 Return,2pt,Mean,3.694592769008156e-08,0.34805225970575004,Skewness <= 1.014132,0.8
+model_0255,Skewness + Mean + VIX + T-2 Return + T-4 Return,2pt,VIX,0.00028775004710090285,0.10102332185379502,Skewness <= 1.014132,0.8
+model_0255,Skewness + Mean + VIX + T-2 Return + T-4 Return,2pt,T-2 Return,0.052793597485639214,0.09939902896769481,Skewness <= 1.014132,0.8
+model_0255,Skewness + Mean + VIX + T-2 Return + T-4 Return,2pt,T-4 Return,-0.0389109237800868,0.24269810089322377,Skewness <= 1.014132,0.8
+model_0195,Skewness + Mean + Std + VIX + T-1 Return,1pt,const,-0.0020634443402130485,0.6334385573395709,Std <= 2300.918297,0.8
+model_0195,Skewness + Mean + Std + VIX + T-1 Return,1pt,Skewness,0.004933902582792779,3.842692278031358e-07,Std <= 2300.918297,0.8
+model_0195,Skewness + Mean + Std + VIX + T-1 Return,1pt,Mean,1.6095366747367147e-07,0.005614351846837584,Std <= 2300.918297,0.8
+model_0195,Skewness + Mean + Std + VIX + T-1 Return,1pt,Std,-5.96555764123273e-06,0.008964891768975037,Std <= 2300.918297,0.8
+model_0195,Skewness + Mean + Std + VIX + T-1 Return,1pt,VIX,0.00023866786413504235,0.11513401736343012,Std <= 2300.918297,0.8
+model_0195,Skewness + Mean + Std + VIX + T-1 Return,1pt,T-1 Return,-0.03471760784610153,0.3259441298859369,Std <= 2300.918297,0.8
+model_0195,Skewness + Mean + Std + VIX + T-1 Return,2pt,const,-0.0022242809324368815,0.6073957738687541,Std <= 2300.918297,0.8
+model_0195,Skewness + Mean + Std + VIX + T-1 Return,2pt,Skewness,0.004954480298917694,4.248072345383973e-07,Std <= 2300.918297,0.8
+model_0195,Skewness + Mean + Std + VIX + T-1 Return,2pt,Mean,1.6163684868960813e-07,0.005436490860463224,Std <= 2300.918297,0.8
+model_0195,Skewness + Mean + Std + VIX + T-1 Return,2pt,Std,-5.897924877206992e-06,0.009768521888540051,Std <= 2300.918297,0.8
+model_0195,Skewness + Mean + Std + VIX + T-1 Return,2pt,VIX,0.00023963583575726844,0.11370141305327366,Std <= 2300.918297,0.8
+model_0195,Skewness + Mean + Std + VIX + T-1 Return,2pt,T-1 Return,-0.03412076213135232,0.3344886213821022,Std <= 2300.918297,0.8
+model_0251,Skewness + Mean + VIX + T-1 Return + T-2 Return,1pt,const,-0.004376814726955483,0.34423762191905216,Skewness <= 1.014132,0.8
+model_0251,Skewness + Mean + VIX + T-1 Return + T-2 Return,1pt,Skewness,0.005906460292777875,5.971025148940962e-07,Skewness <= 1.014132,0.8
+model_0251,Skewness + Mean + VIX + T-1 Return + T-2 Return,1pt,Mean,3.539942726918035e-08,0.367363553267371,Skewness <= 1.014132,0.8
+model_0251,Skewness + Mean + VIX + T-1 Return + T-2 Return,1pt,VIX,0.0002961365110645653,0.09134619206424337,Skewness <= 1.014132,0.8
+model_0251,Skewness + Mean + VIX + T-1 Return + T-2 Return,1pt,T-1 Return,-0.01241721319567328,0.7138065007560426,Skewness <= 1.014132,0.8
+model_0251,Skewness + Mean + VIX + T-1 Return + T-2 Return,1pt,T-2 Return,0.05107076128084806,0.11111975091312355,Skewness <= 1.014132,0.8
+model_0251,Skewness + Mean + VIX + T-1 Return + T-2 Return,2pt,const,-0.004527985417515864,0.32789823303894294,Skewness <= 1.014132,0.8
+model_0251,Skewness + Mean + VIX + T-1 Return + T-2 Return,2pt,Skewness,0.005944212433631729,6.162481351028286e-07,Skewness <= 1.014132,0.8
+model_0251,Skewness + Mean + VIX + T-1 Return + T-2 Return,2pt,Mean,3.7768554456684235e-08,0.33767428179758474,Skewness <= 1.014132,0.8
+model_0251,Skewness + Mean + VIX + T-1 Return + T-2 Return,2pt,VIX,0.0002969734653132191,0.0904514152656638,Skewness <= 1.014132,0.8
+model_0251,Skewness + Mean + VIX + T-1 Return + T-2 Return,2pt,T-1 Return,-0.011789421799239481,0.7277229138706551,Skewness <= 1.014132,0.8
+model_0251,Skewness + Mean + VIX + T-1 Return + T-2 Return,2pt,T-2 Return,0.05152083601684415,0.10802239088935661,Skewness <= 1.014132,0.8
+model_0101,Skewness + Std + Median + VIX,1pt,const,-0.0008915547634233885,0.8405232368566642,Kurtosis >= -0.841103,0.8
+model_0101,Skewness + Std + Median + VIX,1pt,Skewness,0.005535391904731755,6.147235842207653e-09,Kurtosis >= -0.841103,0.8
+model_0101,Skewness + Std + Median + VIX,1pt,Std,-3.901714343039919e-06,0.00637927371704792,Kurtosis >= -0.841103,0.8
+model_0101,Skewness + Std + Median + VIX,1pt,Median,1.135018462202589e-07,0.020008185356978455,Kurtosis >= -0.841103,0.8
+model_0101,Skewness + Std + Median + VIX,1pt,VIX,0.00021363932849231823,0.1968102093246624,Kurtosis >= -0.841103,0.8
+model_0101,Skewness + Std + Median + VIX,2pt,const,-0.0010408335143049327,0.8142742009179299,Kurtosis >= -0.841103,0.8
+model_0101,Skewness + Std + Median + VIX,2pt,Skewness,0.005580721726838447,5.693672298026879e-09,Kurtosis >= -0.841103,0.8
+model_0101,Skewness + Std + Median + VIX,2pt,Std,-3.872060953753224e-06,0.006770815429903301,Kurtosis >= -0.841103,0.8
+model_0101,Skewness + Std + Median + VIX,2pt,Median,1.1505556324756401e-07,0.018417257699861158,Kurtosis >= -0.841103,0.8
+model_0101,Skewness + Std + Median + VIX,2pt,VIX,0.00021400674918353981,0.19601109341490416,Kurtosis >= -0.841103,0.8
+model_0290,Skewness + Std + Median + VIX + T-4 Return,1pt,const,-0.0008156811070187932,0.8540848225162181,Kurtosis >= -0.841103,0.8
+model_0290,Skewness + Std + Median + VIX + T-4 Return,1pt,Skewness,0.005534783024050837,6.258253689087329e-09,Kurtosis >= -0.841103,0.8
+model_0290,Skewness + Std + Median + VIX + T-4 Return,1pt,Std,-3.86690807992116e-06,0.006958134469321617,Kurtosis >= -0.841103,0.8
+model_0290,Skewness + Std + Median + VIX + T-4 Return,1pt,Median,1.1277921480921843e-07,0.020921548385370504,Kurtosis >= -0.841103,0.8
+model_0290,Skewness + Std + Median + VIX + T-4 Return,1pt,VIX,0.00021079190647202,0.20331004257855806,Kurtosis >= -0.841103,0.8
+model_0290,Skewness + Std + Median + VIX + T-4 Return,1pt,T-4 Return,-0.015774474567790873,0.6304683529890088,Kurtosis >= -0.841103,0.8
+model_0290,Skewness + Std + Median + VIX + T-4 Return,2pt,const,-0.0009658301850627507,0.8276153200333349,Kurtosis >= -0.841103,0.8
+model_0290,Skewness + Std + Median + VIX + T-4 Return,2pt,Skewness,0.005579676648497276,5.813253350527986e-09,Kurtosis >= -0.841103,0.8
+model_0290,Skewness + Std + Median + VIX + T-4 Return,2pt,Std,-3.837637577248154e-06,0.007375433052413926,Kurtosis >= -0.841103,0.8
+model_0290,Skewness + Std + Median + VIX + T-4 Return,2pt,Median,1.143379842478725e-07,0.01926370756219589,Kurtosis >= -0.841103,0.8
+model_0290,Skewness + Std + Median + VIX + T-4 Return,2pt,VIX,0.0002111929262457803,0.20242295266343013,Kurtosis >= -0.841103,0.8
+model_0290,Skewness + Std + Median + VIX + T-4 Return,2pt,T-4 Return,-0.015577741716820297,0.6347131322692514,Kurtosis >= -0.841103,0.8
+model_0048,Skewness + VIX + T-2 Return,1pt,const,-0.0016971967877635124,0.6272668010172051,Skewness <= 1.014132,0.8
+model_0048,Skewness + VIX + T-2 Return,1pt,Skewness,0.005657618857388709,7.87330793706649e-07,Skewness <= 1.014132,0.8
+model_0048,Skewness + VIX + T-2 Return,1pt,VIX,0.00024109329622050885,0.1404919302746082,Skewness <= 1.014132,0.8
+model_0048,Skewness + VIX + T-2 Return,1pt,T-2 Return,0.05125594343136108,0.109529210931521,Skewness <= 1.014132,0.8
+model_0048,Skewness + VIX + T-2 Return,2pt,const,-0.001672395273687835,0.6324785667506438,Skewness <= 1.014132,0.8
+model_0048,Skewness + VIX + T-2 Return,2pt,Skewness,0.005664522332433919,8.535117064222546e-07,Skewness <= 1.014132,0.8
+model_0048,Skewness + VIX + T-2 Return,2pt,VIX,0.00023833811990494805,0.1452302513616257,Skewness <= 1.014132,0.8
+model_0048,Skewness + VIX + T-2 Return,2pt,T-2 Return,0.05166543833543844,0.10675490647593823,Skewness <= 1.014132,0.8
+model_0171,Skewness + VIX + T-2 Return + T-4 Return,1pt,const,-0.0014019107913362775,0.6890174242118496,Skewness <= 1.014132,0.8
+model_0171,Skewness + VIX + T-2 Return + T-4 Return,1pt,Skewness,0.005693712994812749,6.733090487641106e-07,Skewness <= 1.014132,0.8
+model_0171,Skewness + VIX + T-2 Return + T-4 Return,1pt,VIX,0.00023153846427300398,0.15729502172642557,Skewness <= 1.014132,0.8
+model_0171,Skewness + VIX + T-2 Return + T-4 Return,1pt,T-2 Return,0.05227722642779997,0.10269353073933248,Skewness <= 1.014132,0.8
+model_0171,Skewness + VIX + T-2 Return + T-4 Return,1pt,T-4 Return,-0.0397052755988024,0.23304592572720853,Skewness <= 1.014132,0.8
+model_0171,Skewness + VIX + T-2 Return + T-4 Return,2pt,const,-0.0013781557982756392,0.694163782646205,Skewness <= 1.014132,0.8
+model_0171,Skewness + VIX + T-2 Return + T-4 Return,2pt,Skewness,0.0056999152765371056,7.328085477447684e-07,Skewness <= 1.014132,0.8
+model_0171,Skewness + VIX + T-2 Return + T-4 Return,2pt,VIX,0.0002287992584219536,0.16241969012953517,Skewness <= 1.014132,0.8
+model_0171,Skewness + VIX + T-2 Return + T-4 Return,2pt,T-2 Return,0.052686554869382216,0.1000621482594279,Skewness <= 1.014132,0.8
+model_0171,Skewness + VIX + T-2 Return + T-4 Return,2pt,T-4 Return,-0.039597893567668824,0.23434445703536397,Skewness <= 1.014132,0.8
+model_0016,Skewness + Mean + VIX,1pt,const,-0.00414719940171485,0.3696269877660052,Skewness <= 1.014132,0.8
+model_0016,Skewness + Mean + VIX,1pt,Skewness,0.005921200729478021,5.591686175176838e-07,Skewness <= 1.014132,0.8
+model_0016,Skewness + Mean + VIX,1pt,Mean,3.535999655181528e-08,0.3680343458840507,Skewness <= 1.014132,0.8
+model_0016,Skewness + Mean + VIX,1pt,VIX,0.00029131171174615197,0.09663069884902631,Skewness <= 1.014132,0.8
+model_0016,Skewness + Mean + VIX,2pt,const,-0.004292891771037977,0.3531191642308965,Skewness <= 1.014132,0.8
+model_0016,Skewness + Mean + VIX,2pt,Skewness,0.005954791226612605,5.863117379442232e-07,Skewness <= 1.014132,0.8
+model_0016,Skewness + Mean + VIX,2pt,Mean,3.7692791982106e-08,0.3387805162375779,Skewness <= 1.014132,0.8
+model_0016,Skewness + Mean + VIX,2pt,VIX,0.0002919910805202872,0.09587690935108462,Skewness <= 1.014132,0.8
+model_0287,Skewness + Std + Median + VIX + T-1 Return,1pt,const,-0.0009072456846157763,0.8380198688312113,Kurtosis >= -0.841103,0.8
+model_0287,Skewness + Std + Median + VIX + T-1 Return,1pt,Skewness,0.005543032274626645,7.2946982063988805e-09,Kurtosis >= -0.841103,0.8
+model_0287,Skewness + Std + Median + VIX + T-1 Return,1pt,Std,-3.900338102311183e-06,0.006429981743249572,Kurtosis >= -0.841103,0.8
+model_0287,Skewness + Std + Median + VIX + T-1 Return,1pt,Median,1.134730244027078e-07,0.020108611081071044,Kurtosis >= -0.841103,0.8
+model_0287,Skewness + Std + Median + VIX + T-1 Return,1pt,VIX,0.00021455180277528096,0.196364078611556,Kurtosis >= -0.841103,0.8
+model_0287,Skewness + Std + Median + VIX + T-1 Return,1pt,T-1 Return,0.0025525900418045568,0.9407294841057625,Kurtosis >= -0.841103,0.8
+model_0287,Skewness + Std + Median + VIX + T-1 Return,2pt,const,-0.0010606825454238624,0.8111118132170718,Kurtosis >= -0.841103,0.8
+model_0287,Skewness + Std + Median + VIX + T-1 Return,2pt,Skewness,0.005590567822515366,6.7477748997250895e-09,Kurtosis >= -0.841103,0.8
+model_0287,Skewness + Std + Median + VIX + T-1 Return,2pt,Std,-3.870278431157318e-06,0.006830171147639902,Kurtosis >= -0.841103,0.8
+model_0287,Skewness + Std + Median + VIX + T-1 Return,2pt,Median,1.1502368161208495e-07,0.018513645264612553,Kurtosis >= -0.841103,0.8
+model_0287,Skewness + Std + Median + VIX + T-1 Return,2pt,VIX,0.00021514550258427493,0.1951007493945029,Kurtosis >= -0.841103,0.8
+model_0287,Skewness + Std + Median + VIX + T-1 Return,2pt,T-1 Return,0.003183459373383088,0.9261367087362424,Kurtosis >= -0.841103,0.8
+model_0086,Skewness + Mean + VIX + T-4 Return,1pt,const,-0.0037866974524359276,0.41371010731095537,Skewness <= 1.014132,0.8
+model_0086,Skewness + Mean + VIX + T-4 Return,1pt,Skewness,0.005948236206809451,4.981789436533579e-07,Skewness <= 1.014132,0.8
+model_0086,Skewness + Mean + VIX + T-4 Return,1pt,Mean,3.4377594668057236e-08,0.3815337622076054,Skewness <= 1.014132,0.8
+model_0086,Skewness + Mean + VIX + T-4 Return,1pt,VIX,0.00028057255191078745,0.11001482995905505,Skewness <= 1.014132,0.8
+model_0086,Skewness + Mean + VIX + T-4 Return,1pt,T-4 Return,-0.03760579860994015,0.25909389152441314,Skewness <= 1.014132,0.8
+model_0086,Skewness + Mean + VIX + T-4 Return,2pt,const,-0.003934485962378398,0.3957905754419919,Skewness <= 1.014132,0.8
+model_0086,Skewness + Mean + VIX + T-4 Return,2pt,Skewness,0.005980681980050983,5.253306049500403e-07,Skewness <= 1.014132,0.8
+model_0086,Skewness + Mean + VIX + T-4 Return,2pt,Mean,3.671471846458337e-08,0.3515077732764209,Skewness <= 1.014132,0.8
+model_0086,Skewness + Mean + VIX + T-4 Return,2pt,VIX,0.0002812974922383292,0.10912396730780344,Skewness <= 1.014132,0.8
+model_0086,Skewness + Mean + VIX + T-4 Return,2pt,T-4 Return,-0.03744367852964113,0.2611686120531855,Skewness <= 1.014132,0.8
+model_0167,Skewness + VIX + T-1 Return + T-2 Return,1pt,const,-0.0016482456653328073,0.6376130852730264,Skewness <= 1.014132,0.8
+model_0167,Skewness + VIX + T-1 Return + T-2 Return,1pt,Skewness,0.005645954960894242,8.461043622049102e-07,Skewness <= 1.014132,0.8
+model_0167,Skewness + VIX + T-1 Return + T-2 Return,1pt,VIX,0.00023948577404342018,0.1434697105394395,Skewness <= 1.014132,0.8
+model_0167,Skewness + VIX + T-1 Return + T-2 Return,1pt,T-1 Return,-0.012798605771997625,0.7053717709585404,Skewness <= 1.014132,0.8
+model_0167,Skewness + VIX + T-1 Return + T-2 Return,1pt,T-2 Return,0.050961377955796604,0.11184802920347565,Skewness <= 1.014132,0.8
+model_0167,Skewness + VIX + T-1 Return + T-2 Return,2pt,const,-0.0016265611363621827,0.6422049242768458,Skewness <= 1.014132,0.8
+model_0167,Skewness + VIX + T-1 Return + T-2 Return,2pt,Skewness,0.005651893614119506,9.230560206078871e-07,Skewness <= 1.014132,0.8
+model_0167,Skewness + VIX + T-1 Return + T-2 Return,2pt,VIX,0.00023682397789399898,0.14811852743423917,Skewness <= 1.014132,0.8
+model_0167,Skewness + VIX + T-1 Return + T-2 Return,2pt,T-1 Return,-0.012236232137247033,0.7178007375179649,Skewness <= 1.014132,0.8
+model_0167,Skewness + VIX + T-1 Return + T-2 Return,2pt,T-2 Return,0.05138298677949246,0.10894869414598177,Skewness <= 1.014132,0.8
+model_0383,Skewness + VIX + T-1 Return + T-2 Return + T-4 Return,1pt,const,-0.0013528318271815083,0.6996874908662116,Skewness <= 1.014132,0.8
+model_0383,Skewness + VIX + T-1 Return + T-2 Return + T-4 Return,1pt,Skewness,0.005682036055992464,7.23981054308184e-07,Skewness <= 1.014132,0.8
+model_0383,Skewness + VIX + T-1 Return + T-2 Return + T-4 Return,1pt,VIX,0.00022992676712159084,0.16053113168216634,Skewness <= 1.014132,0.8
+model_0383,Skewness + VIX + T-1 Return + T-2 Return + T-4 Return,1pt,T-1 Return,-0.012819397668190001,0.7048531616789615,Skewness <= 1.014132,0.8
+model_0383,Skewness + VIX + T-1 Return + T-2 Return + T-4 Return,1pt,T-2 Return,0.051982349533120205,0.10490376883279597,Skewness <= 1.014132,0.8
+model_0383,Skewness + VIX + T-1 Return + T-2 Return + T-4 Return,1pt,T-4 Return,-0.039711772684914756,0.23318026198340439,Skewness <= 1.014132,0.8
+model_0383,Skewness + VIX + T-1 Return + T-2 Return + T-4 Return,2pt,const,-0.0013322157978247155,0.7041814610491092,Skewness <= 1.014132,0.8
+model_0383,Skewness + VIX + T-1 Return + T-2 Return + T-4 Return,2pt,Skewness,0.005687273005044086,7.930001404520866e-07,Skewness <= 1.014132,0.8
+model_0383,Skewness + VIX + T-1 Return + T-2 Return + T-4 Return,2pt,VIX,0.00022728164351993528,0.16555319755477169,Skewness <= 1.014132,0.8
+model_0383,Skewness + VIX + T-1 Return + T-2 Return + T-4 Return,2pt,T-1 Return,-0.012253962026773582,0.7173504816389766,Skewness <= 1.014132,0.8
+model_0383,Skewness + VIX + T-1 Return + T-2 Return + T-4 Return,2pt,T-2 Return,0.05240383095973501,0.10215248644763164,Skewness <= 1.014132,0.8
+model_0383,Skewness + VIX + T-1 Return + T-2 Return + T-4 Return,2pt,T-4 Return,-0.03960320276849741,0.23449580819607613,Skewness <= 1.014132,0.8
+model_0083,Skewness + Mean + VIX + T-1 Return,1pt,const,-0.0040811417994446484,0.3778023828660304,Skewness <= 1.014132,0.8
+model_0083,Skewness + Mean + VIX + T-1 Return,1pt,Skewness,0.005907210502226938,6.074895629241387e-07,Skewness <= 1.014132,0.8
+model_0083,Skewness + Mean + VIX + T-1 Return,1pt,Mean,3.516237587298972e-08,0.3709631450365355,Skewness <= 1.014132,0.8
+model_0083,Skewness + Mean + VIX + T-1 Return,1pt,VIX,0.00028930987518152937,0.0992227127404575,Skewness <= 1.014132,0.8
+model_0083,Skewness + Mean + VIX + T-1 Return,1pt,T-1 Return,-0.013732480492515266,0.6851949436577479,Skewness <= 1.014132,0.8
+model_0083,Skewness + Mean + VIX + T-1 Return,2pt,const,-0.004229342774560094,0.3608046560032062,Skewness <= 1.014132,0.8
+model_0083,Skewness + Mean + VIX + T-1 Return,2pt,Skewness,0.005939644358167266,6.417122968463443e-07,Skewness <= 1.014132,0.8
+model_0083,Skewness + Mean + VIX + T-1 Return,2pt,Mean,3.748436141108038e-08,0.34171766840588946,Skewness <= 1.014132,0.8
+model_0083,Skewness + Mean + VIX + T-1 Return,2pt,VIX,0.0002900728388922277,0.0983597394852183,Skewness <= 1.014132,0.8
+model_0083,Skewness + Mean + VIX + T-1 Return,2pt,T-1 Return,-0.013121222839300216,0.6985520155470477,Skewness <= 1.014132,0.8
+model_0253,Skewness + Mean + VIX + T-1 Return + T-4 Return,1pt,const,-0.0037201875264712475,0.42244905358826046,Skewness <= 1.014132,0.8
+model_0253,Skewness + Mean + VIX + T-1 Return + T-4 Return,1pt,Skewness,0.005934203911648225,5.415409641617815e-07,Skewness <= 1.014132,0.8
+model_0253,Skewness + Mean + VIX + T-1 Return + T-4 Return,1pt,Mean,3.4178670738952256e-08,0.3845392099660033,Skewness <= 1.014132,0.8
+model_0253,Skewness + Mean + VIX + T-1 Return + T-4 Return,1pt,VIX,0.0002785571044207165,0.11289013127388223,Skewness <= 1.014132,0.8
+model_0253,Skewness + Mean + VIX + T-1 Return + T-4 Return,1pt,T-1 Return,-0.013787564717042327,0.6839574958730311,Skewness <= 1.014132,0.8
+model_0253,Skewness + Mean + VIX + T-1 Return + T-4 Return,1pt,T-4 Return,-0.03762534214928494,0.25905623424307367,Skewness <= 1.014132,0.8
+model_0253,Skewness + Mean + VIX + T-1 Return + T-4 Return,2pt,const,-0.0038705062510919173,0.4040211016936083,Skewness <= 1.014132,0.8
+model_0253,Skewness + Mean + VIX + T-1 Return + T-4 Return,2pt,Skewness,0.005965486253159463,5.753283978509088e-07,Skewness <= 1.014132,0.8
+model_0253,Skewness + Mean + VIX + T-1 Return + T-4 Return,2pt,Mean,3.6504970644479906e-08,0.3545248638744919,Skewness <= 1.014132,0.8
+model_0253,Skewness + Mean + VIX + T-1 Return + T-4 Return,2pt,VIX,0.00027936630978183465,0.11187701025426092,Skewness <= 1.014132,0.8
+model_0253,Skewness + Mean + VIX + T-1 Return + T-4 Return,2pt,T-1 Return,-0.01317438744974167,0.6973513325844072,Skewness <= 1.014132,0.8
+model_0253,Skewness + Mean + VIX + T-1 Return + T-4 Return,2pt,T-4 Return,-0.03746177603982158,0.26115183147833104,Skewness <= 1.014132,0.8
+model_0190,Skewness + Mean + Std + Fear and Greed Index + VIX,1pt,const,-0.004194274820688395,0.47105087512686783,Kurtosis >= -0.841103,0.8
+model_0190,Skewness + Mean + Std + Fear and Greed Index + VIX,1pt,Skewness,0.005450616907089312,1.3479977539227706e-08,Kurtosis >= -0.841103,0.8
+model_0190,Skewness + Mean + Std + Fear and Greed Index + VIX,1pt,Mean,1.0936688854799549e-07,0.027359599486675063,Kurtosis >= -0.841103,0.8
+model_0190,Skewness + Mean + Std + Fear and Greed Index + VIX,1pt,Std,-4.048460252928006e-06,0.004421738277914822,Kurtosis >= -0.841103,0.8
+model_0190,Skewness + Mean + Std + Fear and Greed Index + VIX,1pt,Fear and Greed Index,4.592024869300127e-05,0.41130124435129445,Kurtosis >= -0.841103,0.8
+model_0190,Skewness + Mean + Std + Fear and Greed Index + VIX,1pt,VIX,0.0002816118344541151,0.12282705924372528,Kurtosis >= -0.841103,0.8
+model_0190,Skewness + Mean + Std + Fear and Greed Index + VIX,2pt,const,-0.004371213634499081,0.45234115753070026,Kurtosis >= -0.841103,0.8
+model_0190,Skewness + Mean + Std + Fear and Greed Index + VIX,2pt,Skewness,0.005496321527645174,1.235540661775049e-08,Kurtosis >= -0.841103,0.8
+model_0190,Skewness + Mean + Std + Fear and Greed Index + VIX,2pt,Mean,1.1080209200593403e-07,0.025454515485300536,Kurtosis >= -0.841103,0.8
+model_0190,Skewness + Mean + Std + Fear and Greed Index + VIX,2pt,Std,-4.019388596253041e-06,0.004699822388494198,Kurtosis >= -0.841103,0.8
+model_0190,Skewness + Mean + Std + Fear and Greed Index + VIX,2pt,Fear and Greed Index,4.6366571624912975e-05,0.4066252460152322,Kurtosis >= -0.841103,0.8
+model_0190,Skewness + Mean + Std + Fear and Greed Index + VIX,2pt,VIX,0.00028258329728285983,0.12149621006077087,Kurtosis >= -0.841103,0.8
+model_0007,Skewness + VIX,1pt,const,-0.0014236630303368033,0.6836567876994906,Skewness <= 1.014132,0.8
+model_0007,Skewness + VIX,1pt,Skewness,0.0056613254936000714,7.90422397985436e-07,Skewness <= 1.014132,0.8
+model_0007,Skewness + VIX,1pt,VIX,0.00023478429645888447,0.151380079431157,Skewness <= 1.014132,0.8
+model_0007,Skewness + VIX,2pt,const,-0.0013996299105806494,0.6888774464300167,Skewness <= 1.014132,0.8
+model_0007,Skewness + VIX,2pt,Skewness,0.005663521471743618,8.752186211522972e-07,Skewness <= 1.014132,0.8
+model_0007,Skewness + VIX,2pt,VIX,0.0002320329624844877,0.1563929192847219,Skewness <= 1.014132,0.8
+model_0050,Skewness + VIX + T-4 Return,1pt,const,-0.001133936010126008,0.7461122788447867,Skewness <= 1.014132,0.8
+model_0050,Skewness + VIX + T-4 Return,1pt,Skewness,0.005696169468929944,6.807739739662468e-07,Skewness <= 1.014132,0.8
+model_0050,Skewness + VIX + T-4 Return,1pt,VIX,0.00022545813639214424,0.16873493404203085,Skewness <= 1.014132,0.8
+model_0050,Skewness + VIX + T-4 Return,1pt,T-4 Return,-0.03825176732639024,0.2508321706340756,Skewness <= 1.014132,0.8
+model_0050,Skewness + VIX + T-4 Return,2pt,const,-0.0011111119820189184,0.7511835946428455,Skewness <= 1.014132,0.8
+model_0050,Skewness + VIX + T-4 Return,2pt,Skewness,0.005697582739390521,7.570914508898647e-07,Skewness <= 1.014132,0.8
+model_0050,Skewness + VIX + T-4 Return,2pt,VIX,0.00022272787811833454,0.17412325607697351,Skewness <= 1.014132,0.8
+model_0050,Skewness + VIX + T-4 Return,2pt,T-4 Return,-0.038129314252532354,0.25239446656034176,Skewness <= 1.014132,0.8
+model_0047,Skewness + VIX + T-1 Return,1pt,const,-0.0013714347008574302,0.6949782233362733,Skewness <= 1.014132,0.8
+model_0047,Skewness + VIX + T-1 Return,1pt,Skewness,0.005648444330503258,8.536140179065174e-07,Skewness <= 1.014132,0.8
+model_0047,Skewness + VIX + T-1 Return,1pt,VIX,0.00023305221492569473,0.1547291736107183,Skewness <= 1.014132,0.8
+model_0047,Skewness + VIX + T-1 Return,1pt,T-1 Return,-0.014108526301812396,0.6770002431741853,Skewness <= 1.014132,0.8
+model_0047,Skewness + VIX + T-1 Return,2pt,const,-0.0013504856105246697,0.6995605099013027,Skewness <= 1.014132,0.8
+model_0047,Skewness + VIX + T-1 Return,2pt,Skewness,0.005649531408744284,9.516442207947968e-07,Skewness <= 1.014132,0.8
+model_0047,Skewness + VIX + T-1 Return,2pt,VIX,0.0002303930748354418,0.15965250559528,Skewness <= 1.014132,0.8
+model_0047,Skewness + VIX + T-1 Return,2pt,T-1 Return,-0.013561143411417833,0.6889233816817226,Skewness <= 1.014132,0.8
+model_0169,Skewness + VIX + T-1 Return + T-4 Return,1pt,const,-0.001081416995726503,0.757745412767486,Skewness <= 1.014132,0.8
+model_0169,Skewness + VIX + T-1 Return + T-4 Return,1pt,Skewness,0.005683261703828601,7.356418607845206e-07,Skewness <= 1.014132,0.8
+model_0169,Skewness + VIX + T-1 Return + T-4 Return,1pt,VIX,0.00022371653441008798,0.17237072426957978,Skewness <= 1.014132,0.8
+model_0169,Skewness + VIX + T-1 Return + T-4 Return,1pt,T-1 Return,-0.014153851405786268,0.6759705020116431,Skewness <= 1.014132,0.8
+model_0169,Skewness + VIX + T-1 Return + T-4 Return,1pt,T-4 Return,-0.03826799290659216,0.2508372941670411,Skewness <= 1.014132,0.8
+model_0169,Skewness + VIX + T-1 Return + T-4 Return,2pt,const,-0.0010617031253277254,0.7621489071913858,Skewness <= 1.014132,0.8
+model_0169,Skewness + VIX + T-1 Return + T-4 Return,2pt,Skewness,0.005683561985502997,8.237421846119253e-07,Skewness <= 1.014132,0.8
+model_0169,Skewness + VIX + T-1 Return + T-4 Return,2pt,VIX,0.0002210792863412755,0.17765628089349192,Skewness <= 1.014132,0.8
+model_0169,Skewness + VIX + T-1 Return + T-4 Return,2pt,T-1 Return,-0.01360357260399286,0.6879532342554915,Skewness <= 1.014132,0.8
+model_0169,Skewness + VIX + T-1 Return + T-4 Return,2pt,T-4 Return,-0.038143956751413126,0.25242192279047293,Skewness <= 1.014132,0.8
+model_0106,Skewness + Std + Fear and Greed Index + VIX,1pt,const,-0.009309937193256311,0.17314240841340933,Fear and Greed Index >= 27.000000 AND VIX <= 25.850000,0.7313807531380753
+model_0106,Skewness + Std + Fear and Greed Index + VIX,1pt,Skewness,0.004465250474272961,2.864145578289889e-06,Fear and Greed Index >= 27.000000 AND VIX <= 25.850000,0.7313807531380753
+model_0106,Skewness + Std + Fear and Greed Index + VIX,1pt,Std,-2.499015838071707e-09,0.9959120637717197,Fear and Greed Index >= 27.000000 AND VIX <= 25.850000,0.7313807531380753
+model_0106,Skewness + Std + Fear and Greed Index + VIX,1pt,Fear and Greed Index,0.00010896760593718373,0.07819487085687987,Fear and Greed Index >= 27.000000 AND VIX <= 25.850000,0.7313807531380753
+model_0106,Skewness + Std + Fear and Greed Index + VIX,1pt,VIX,0.000262052310692457,0.34790694691445045,Fear and Greed Index >= 27.000000 AND VIX <= 25.850000,0.7313807531380753
+model_0106,Skewness + Std + Fear and Greed Index + VIX,2pt,const,-0.009389214741150877,0.1693463568528075,Fear and Greed Index >= 27.000000 AND VIX <= 25.850000,0.7313807531380753
+model_0106,Skewness + Std + Fear and Greed Index + VIX,2pt,Skewness,0.004489241256624585,2.6085014960423847e-06,Fear and Greed Index >= 27.000000 AND VIX <= 25.850000,0.7313807531380753
+model_0106,Skewness + Std + Fear and Greed Index + VIX,2pt,Std,2.920575607330247e-09,0.9952214544041873,Fear and Greed Index >= 27.000000 AND VIX <= 25.850000,0.7313807531380753
+model_0106,Skewness + Std + Fear and Greed Index + VIX,2pt,Fear and Greed Index,0.0001102978393815477,0.07458045894647745,Fear and Greed Index >= 27.000000 AND VIX <= 25.850000,0.7313807531380753
+model_0106,Skewness + Std + Fear and Greed Index + VIX,2pt,VIX,0.00026081068048131116,0.35017534916496484,Fear and Greed Index >= 27.000000 AND VIX <= 25.850000,0.7313807531380753
+model_0042,Skewness + Fear and Greed Index + VIX,1pt,const,-0.005020800893920775,0.38876949883186973,Skewness <= 1.014132,0.8
+model_0042,Skewness + Fear and Greed Index + VIX,1pt,Skewness,0.005606060910143155,1.0632198096987745e-06,Skewness <= 1.014132,0.8
+model_0042,Skewness + Fear and Greed Index + VIX,1pt,Fear and Greed Index,4.1453614495296225e-05,0.4402110752077131,Skewness <= 1.014132,0.8
+model_0042,Skewness + Fear and Greed Index + VIX,1pt,VIX,0.00030667557618962353,0.1035281231218605,Skewness <= 1.014132,0.8
+model_0042,Skewness + Fear and Greed Index + VIX,2pt,const,-0.005130765319916104,0.37823767134141983,Skewness <= 1.014132,0.8
+model_0042,Skewness + Fear and Greed Index + VIX,2pt,Skewness,0.0056112205334633335,1.1491177847454562e-06,Skewness <= 1.014132,0.8
+model_0042,Skewness + Fear and Greed Index + VIX,2pt,Fear and Greed Index,4.303176145973789e-05,0.42288479509964316,Skewness <= 1.014132,0.8
+model_0042,Skewness + Fear and Greed Index + VIX,2pt,VIX,0.0003066288192573124,0.10362020809811642,Skewness <= 1.014132,0.8
+model_0300,Skewness + Std + Fear and Greed Index + VIX + T-4 Return,1pt,const,-0.009772132796096305,0.12385070039739789,Fear and Greed Index >= 27.000000 AND Std <= 2828.371222,0.7313807531380753
+model_0300,Skewness + Std + Fear and Greed Index + VIX + T-4 Return,1pt,Skewness,0.004224363320905114,1.0555903878645531e-05,Fear and Greed Index >= 27.000000 AND Std <= 2828.371222,0.7313807531380753
+model_0300,Skewness + Std + Fear and Greed Index + VIX + T-4 Return,1pt,Std,4.777491748734786e-07,0.7386499248395877,Fear and Greed Index >= 27.000000 AND Std <= 2828.371222,0.7313807531380753
+model_0300,Skewness + Std + Fear and Greed Index + VIX + T-4 Return,1pt,Fear and Greed Index,0.00011132953796405857,0.09386305612763607,Fear and Greed Index >= 27.000000 AND Std <= 2828.371222,0.7313807531380753
+model_0300,Skewness + Std + Fear and Greed Index + VIX + T-4 Return,1pt,VIX,0.00027020420809360194,0.17352915998751525,Fear and Greed Index >= 27.000000 AND Std <= 2828.371222,0.7313807531380753
+model_0300,Skewness + Std + Fear and Greed Index + VIX + T-4 Return,1pt,T-4 Return,-0.023489320232610817,0.5043845495898324,Fear and Greed Index >= 27.000000 AND Std <= 2828.371222,0.7313807531380753
+model_0300,Skewness + Std + Fear and Greed Index + VIX + T-4 Return,2pt,const,-0.00992132832427325,0.118122868919991,Fear and Greed Index >= 27.000000 AND Std <= 2828.371222,0.7313807531380753
+model_0300,Skewness + Std + Fear and Greed Index + VIX + T-4 Return,2pt,Skewness,0.004230440338173658,1.134932017487308e-05,Fear and Greed Index >= 27.000000 AND Std <= 2828.371222,0.7313807531380753
+model_0300,Skewness + Std + Fear and Greed Index + VIX + T-4 Return,2pt,Std,5.277178319255609e-07,0.7130014472976147,Fear and Greed Index >= 27.000000 AND Std <= 2828.371222,0.7313807531380753
+model_0300,Skewness + Std + Fear and Greed Index + VIX + T-4 Return,2pt,Fear and Greed Index,0.00011228233497506812,0.09104358107640562,Fear and Greed Index >= 27.000000 AND Std <= 2828.371222,0.7313807531380753
+model_0300,Skewness + Std + Fear and Greed Index + VIX + T-4 Return,2pt,VIX,0.00027066488637572233,0.17281021314832626,Fear and Greed Index >= 27.000000 AND Std <= 2828.371222,0.7313807531380753
+model_0300,Skewness + Std + Fear and Greed Index + VIX + T-4 Return,2pt,T-4 Return,-0.023521392332445143,0.5038268354316588,Fear and Greed Index >= 27.000000 AND Std <= 2828.371222,0.7313807531380753
+model_0297,Skewness + Std + Fear and Greed Index + VIX + T-1 Return,1pt,const,-0.004738425398217502,0.4178470319830039,Skewness <= 1.014132,0.8
+model_0297,Skewness + Std + Fear and Greed Index + VIX + T-1 Return,1pt,Skewness,0.005551060980155943,1.4269126216036507e-06,Skewness <= 1.014132,0.8
+model_0297,Skewness + Std + Fear and Greed Index + VIX + T-1 Return,1pt,Std,-3.703121144345332e-07,0.4780856166750852,Skewness <= 1.014132,0.8
+model_0297,Skewness + Std + Fear and Greed Index + VIX + T-1 Return,1pt,Fear and Greed Index,4.8038048501984563e-05,0.37672428269328584,Skewness <= 1.014132,0.8
+model_0297,Skewness + Std + Fear and Greed Index + VIX + T-1 Return,1pt,VIX,0.00030526349656835085,0.10538673531286531,Skewness <= 1.014132,0.8
+model_0297,Skewness + Std + Fear and Greed Index + VIX + T-1 Return,1pt,T-1 Return,-0.016280112161539666,0.6315315391838179,Skewness <= 1.014132,0.8
+model_0297,Skewness + Std + Fear and Greed Index + VIX + T-1 Return,2pt,const,-0.004860502001705279,0.4057209609655317,Skewness <= 1.014132,0.8
+model_0297,Skewness + Std + Fear and Greed Index + VIX + T-1 Return,2pt,Skewness,0.0055525822518451284,1.5761749743489152e-06,Skewness <= 1.014132,0.8
+model_0297,Skewness + Std + Fear and Greed Index + VIX + T-1 Return,2pt,Std,-3.5928159070317607e-07,0.49136577813813276,Skewness <= 1.014132,0.8
+model_0297,Skewness + Std + Fear and Greed Index + VIX + T-1 Return,2pt,Fear and Greed Index,4.941553099767429e-05,0.3630837648435734,Skewness <= 1.014132,0.8
+model_0297,Skewness + Std + Fear and Greed Index + VIX + T-1 Return,2pt,VIX,0.0003053542089465251,0.10532922049089861,Skewness <= 1.014132,0.8
+model_0297,Skewness + Std + Fear and Greed Index + VIX + T-1 Return,2pt,T-1 Return,-0.015763669799487866,0.6424596905573083,Skewness <= 1.014132,0.8
+model_0160,Skewness + Fear and Greed Index + VIX + T-4 Return,1pt,const,-0.005583132677516816,0.3391119623799802,Skewness <= 1.014132,0.8
+model_0160,Skewness + Fear and Greed Index + VIX + T-4 Return,1pt,Skewness,0.005631576133565054,9.471123796814949e-07,Skewness <= 1.014132,0.8
+model_0160,Skewness + Fear and Greed Index + VIX + T-4 Return,1pt,Fear and Greed Index,5.168604843521813e-05,0.34107436587621964,Skewness <= 1.014132,0.8
+model_0160,Skewness + Fear and Greed Index + VIX + T-4 Return,1pt,VIX,0.0003139407616142291,0.09565661214363669,Skewness <= 1.014132,0.8
+model_0160,Skewness + Fear and Greed Index + VIX + T-4 Return,1pt,T-4 Return,-0.042986353998847385,0.20190235077488272,Skewness <= 1.014132,0.8
+model_0160,Skewness + Fear and Greed Index + VIX + T-4 Return,2pt,const,-0.005693625492765042,0.32941100850731475,Skewness <= 1.014132,0.8
+model_0160,Skewness + Fear and Greed Index + VIX + T-4 Return,2pt,Skewness,0.0056371945037079815,1.0224770312231425e-06,Skewness <= 1.014132,0.8
+model_0160,Skewness + Fear and Greed Index + VIX + T-4 Return,2pt,Fear and Greed Index,5.327727645307335e-05,0.32630454950023313,Skewness <= 1.014132,0.8
+model_0160,Skewness + Fear and Greed Index + VIX + T-4 Return,2pt,VIX,0.00031389190978458866,0.09574549282986806,Skewness <= 1.014132,0.8
+model_0160,Skewness + Fear and Greed Index + VIX + T-4 Return,2pt,T-4 Return,-0.04301578995769969,0.20163069792947538,Skewness <= 1.014132,0.8
+model_0157,Skewness + Fear and Greed Index + VIX + T-1 Return,1pt,const,-0.005067373613611217,0.38465821223665375,Skewness <= 1.014132,0.8
+model_0157,Skewness + Fear and Greed Index + VIX + T-1 Return,1pt,Skewness,0.005590387885222107,1.162837171567421e-06,Skewness <= 1.014132,0.8
+model_0157,Skewness + Fear and Greed Index + VIX + T-1 Return,1pt,Fear and Greed Index,4.2648238116129925e-05,0.42789759081732115,Skewness <= 1.014132,0.8
+model_0157,Skewness + Fear and Greed Index + VIX + T-1 Return,1pt,VIX,0.0003068540248776983,0.10347235144144752,Skewness <= 1.014132,0.8
+model_0157,Skewness + Fear and Greed Index + VIX + T-1 Return,1pt,T-1 Return,-0.01542202239521113,0.6493212409961373,Skewness <= 1.014132,0.8
+model_0157,Skewness + Fear and Greed Index + VIX + T-1 Return,2pt,const,-0.005176921047830685,0.37424468467884386,Skewness <= 1.014132,0.8
+model_0157,Skewness + Fear and Greed Index + VIX + T-1 Return,2pt,Skewness,0.005594420146686734,1.2653745901034644e-06,Skewness <= 1.014132,0.8
+model_0157,Skewness + Fear and Greed Index + VIX + T-1 Return,2pt,Fear and Greed Index,4.418780390497606e-05,0.41129443424025225,Skewness <= 1.014132,0.8
+model_0157,Skewness + Fear and Greed Index + VIX + T-1 Return,2pt,VIX,0.00030682821666798513,0.10354348958269924,Skewness <= 1.014132,0.8
+model_0157,Skewness + Fear and Greed Index + VIX + T-1 Return,2pt,T-1 Return,-0.014923325684376872,0.6599935585565209,Skewness <= 1.014132,0.8
+model_0374,Skewness + Fear and Greed Index + VIX + T-1 Return + T-4 Return,1pt,const,-0.005632557362024203,0.33513458488444514,Skewness <= 1.014132,0.8
+model_0374,Skewness + Fear and Greed Index + VIX + T-1 Return + T-4 Return,1pt,Skewness,0.005615608022139093,1.037449500888715e-06,Skewness <= 1.014132,0.8
+model_0374,Skewness + Fear and Greed Index + VIX + T-1 Return + T-4 Return,1pt,Fear and Greed Index,5.2940853227335665e-05,0.33028133430095397,Skewness <= 1.014132,0.8
+model_0374,Skewness + Fear and Greed Index + VIX + T-1 Return + T-4 Return,1pt,VIX,0.0003141459553334026,0.0955778678333965,Skewness <= 1.014132,0.8
+model_0374,Skewness + Fear and Greed Index + VIX + T-1 Return + T-4 Return,1pt,T-1 Return,-0.015790089305569986,0.6414332374855545,Skewness <= 1.014132,0.8
+model_0374,Skewness + Fear and Greed Index + VIX + T-1 Return + T-4 Return,1pt,T-4 Return,-0.04311939894685278,0.20071286209902445,Skewness <= 1.014132,0.8
+model_0374,Skewness + Fear and Greed Index + VIX + T-1 Return + T-4 Return,2pt,const,-0.0057425853760688025,0.32555771884269025,Skewness <= 1.014132,0.8
+model_0374,Skewness + Fear and Greed Index + VIX + T-1 Return + T-4 Return,2pt,Skewness,0.005620059699660888,1.127888396341995e-06,Skewness <= 1.014132,0.8
+model_0374,Skewness + Fear and Greed Index + VIX + T-1 Return + T-4 Return,2pt,Fear and Greed Index,5.4492101507993776e-05,0.31619836727408496,Skewness <= 1.014132,0.8
+model_0374,Skewness + Fear and Greed Index + VIX + T-1 Return + T-4 Return,2pt,VIX,0.00031411778448922384,0.09564750900808515,Skewness <= 1.014132,0.8
+model_0374,Skewness + Fear and Greed Index + VIX + T-1 Return + T-4 Return,2pt,T-1 Return,-0.015288967985564592,0.6521082213646243,Skewness <= 1.014132,0.8
+model_0374,Skewness + Fear and Greed Index + VIX + T-1 Return + T-4 Return,2pt,T-4 Return,-0.043143667675198394,0.2004994671065226,Skewness <= 1.014132,0.8
+model_0177,Skewness + Mean + Std + Kurtosis + Median,1pt,const,0.001905344642771955,0.45572497767530984,Fear and Greed Index <= 76.000000 AND Mean <= 63691.909415,0.7255230125523012
+model_0177,Skewness + Mean + Std + Kurtosis + Median,1pt,Skewness,0.0052475566249526205,9.736049739020409e-06,Fear and Greed Index <= 76.000000 AND Mean <= 63691.909415,0.7255230125523012
+model_0177,Skewness + Mean + Std + Kurtosis + Median,1pt,Mean,1.482891126289423e-06,0.14556997177913625,Fear and Greed Index <= 76.000000 AND Mean <= 63691.909415,0.7255230125523012
+model_0177,Skewness + Mean + Std + Kurtosis + Median,1pt,Std,-3.439639759550367e-07,0.8255760324509723,Fear and Greed Index <= 76.000000 AND Mean <= 63691.909415,0.7255230125523012
+model_0177,Skewness + Mean + Std + Kurtosis + Median,1pt,Kurtosis,-0.00043161992125877505,0.31444804592959813,Fear and Greed Index <= 76.000000 AND Mean <= 63691.909415,0.7255230125523012
+model_0177,Skewness + Mean + Std + Kurtosis + Median,1pt,Median,-1.417084707173058e-06,0.17471022951308884,Fear and Greed Index <= 76.000000 AND Mean <= 63691.909415,0.7255230125523012
+model_0177,Skewness + Mean + Std + Kurtosis + Median,2pt,const,0.0016748811183819714,0.5110184188244533,Fear and Greed Index <= 76.000000 AND Mean <= 63691.909415,0.7255230125523012
+model_0177,Skewness + Mean + Std + Kurtosis + Median,2pt,Skewness,0.005326042710170131,8.309576484782497e-06,Fear and Greed Index <= 76.000000 AND Mean <= 63691.909415,0.7255230125523012
+model_0177,Skewness + Mean + Std + Kurtosis + Median,2pt,Mean,1.48614976322179e-06,0.14532414369367347,Fear and Greed Index <= 76.000000 AND Mean <= 63691.909415,0.7255230125523012
+model_0177,Skewness + Mean + Std + Kurtosis + Median,2pt,Std,-3.278400810790128e-07,0.8336878743546627,Fear and Greed Index <= 76.000000 AND Mean <= 63691.909415,0.7255230125523012
+model_0177,Skewness + Mean + Std + Kurtosis + Median,2pt,Kurtosis,-0.0004218531413498019,0.33325027561823695,Fear and Greed Index <= 76.000000 AND Mean <= 63691.909415,0.7255230125523012
+model_0177,Skewness + Mean + Std + Kurtosis + Median,2pt,Median,-1.4166030588683216e-06,0.17540958431299508,Fear and Greed Index <= 76.000000 AND Mean <= 63691.909415,0.7255230125523012
+model_0065,Skewness + Mean + Kurtosis + Median,1pt,const,0.0028894722171507905,0.14265595250246102,T-2 Return <= 0.021495,0.8
+model_0065,Skewness + Mean + Kurtosis + Median,1pt,Skewness,0.0041132172335016605,0.00013677525077594935,T-2 Return <= 0.021495,0.8
+model_0065,Skewness + Mean + Kurtosis + Median,1pt,Mean,1.262835983909432e-06,0.007695447248141614,T-2 Return <= 0.021495,0.8
+model_0065,Skewness + Mean + Kurtosis + Median,1pt,Kurtosis,-0.0004882337721977498,0.21292300768165792,T-2 Return <= 0.021495,0.8
+model_0065,Skewness + Mean + Kurtosis + Median,1pt,Median,-1.2386230324570306e-06,0.008574873074508693,T-2 Return <= 0.021495,0.8
+model_0065,Skewness + Mean + Kurtosis + Median,2pt,const,0.002723326095003767,0.16587741414425614,T-2 Return <= 0.021495,0.8
+model_0065,Skewness + Mean + Kurtosis + Median,2pt,Skewness,0.0041606331936199165,0.00012554186054145822,T-2 Return <= 0.021495,0.8
+model_0065,Skewness + Mean + Kurtosis + Median,2pt,Mean,1.2598808553392773e-06,0.007846344502452834,T-2 Return <= 0.021495,0.8
+model_0065,Skewness + Mean + Kurtosis + Median,2pt,Kurtosis,-0.0004800974024055022,0.2270399755466464,T-2 Return <= 0.021495,0.8
+model_0065,Skewness + Mean + Kurtosis + Median,2pt,Median,-1.2334375899907052e-06,0.008850684377749383,T-2 Return <= 0.021495,0.8
+model_0210,Skewness + Mean + Kurtosis + Median + T-4 Return,1pt,const,0.0029303957776904564,0.13680756421478663,T-2 Return <= 0.021495,0.8
+model_0210,Skewness + Mean + Kurtosis + Median + T-4 Return,1pt,Skewness,0.00410087050967632,0.00014151353686127854,T-2 Return <= 0.021495,0.8
+model_0210,Skewness + Mean + Kurtosis + Median + T-4 Return,1pt,Mean,1.2727973403025318e-06,0.00718775172646295,T-2 Return <= 0.021495,0.8
+model_0210,Skewness + Mean + Kurtosis + Median + T-4 Return,1pt,Kurtosis,-0.0004891027182959999,0.21174167759742646,T-2 Return <= 0.021495,0.8
+model_0210,Skewness + Mean + Kurtosis + Median + T-4 Return,1pt,Median,-1.2482464744653667e-06,0.00802978586857874,T-2 Return <= 0.021495,0.8
+model_0210,Skewness + Mean + Kurtosis + Median + T-4 Return,1pt,T-4 Return,-0.05190336215774703,0.11127110857156255,T-2 Return <= 0.021495,0.8
+model_0210,Skewness + Mean + Kurtosis + Median + T-4 Return,2pt,const,0.0027637679410931174,0.15938938477815218,T-2 Return <= 0.021495,0.8
+model_0210,Skewness + Mean + Kurtosis + Median + T-4 Return,2pt,Skewness,0.004147569119092015,0.0001302456689381448,T-2 Return <= 0.021495,0.8
+model_0210,Skewness + Mean + Kurtosis + Median + T-4 Return,2pt,Mean,1.2695572991005234e-06,0.007343449625729914,T-2 Return <= 0.021495,0.8
+model_0210,Skewness + Mean + Kurtosis + Median + T-4 Return,2pt,Kurtosis,-0.0004802610785773067,0.2265119914870948,T-2 Return <= 0.021495,0.8
+model_0210,Skewness + Mean + Kurtosis + Median + T-4 Return,2pt,Median,-1.242798470924835e-06,0.008304161958895396,T-2 Return <= 0.021495,0.8
+model_0210,Skewness + Mean + Kurtosis + Median + T-4 Return,2pt,T-4 Return,-0.05167264366657627,0.11290661258910206,T-2 Return <= 0.021495,0.8
+model_0208,Skewness + Mean + Kurtosis + Median + T-2 Return,1pt,const,0.0035667935999146704,0.08707371065968017,Skewness <= 1.014132,0.8
+model_0208,Skewness + Mean + Kurtosis + Median + T-2 Return,1pt,Skewness,0.0058844799376940255,0.0004226905062161571,Skewness <= 1.014132,0.8
+model_0208,Skewness + Mean + Kurtosis + Median + T-2 Return,1pt,Mean,1.458381322451952e-06,0.006704282686212693,Skewness <= 1.014132,0.8
+model_0208,Skewness + Mean + Kurtosis + Median + T-2 Return,1pt,Kurtosis,-0.00014080468131167896,0.7789053577703221,Skewness <= 1.014132,0.8
+model_0208,Skewness + Mean + Kurtosis + Median + T-2 Return,1pt,Median,-1.445320106798638e-06,0.0070060032526702044,Skewness <= 1.014132,0.8
+model_0208,Skewness + Mean + Kurtosis + Median + T-2 Return,1pt,T-2 Return,0.04760784611014058,0.13722181519159785,Skewness <= 1.014132,0.8
+model_0208,Skewness + Mean + Kurtosis + Median + T-2 Return,2pt,const,0.0033788626601325518,0.10343393732481819,Skewness <= 1.014132,0.8
+model_0208,Skewness + Mean + Kurtosis + Median + T-2 Return,2pt,Skewness,0.0060023723504071865,0.0003605075708775709,Skewness <= 1.014132,0.8
+model_0208,Skewness + Mean + Kurtosis + Median + T-2 Return,2pt,Mean,1.4560455920852114e-06,0.00678994773760365,Skewness <= 1.014132,0.8
+model_0208,Skewness + Mean + Kurtosis + Median + T-2 Return,2pt,Kurtosis,-0.00010656406377276037,0.833772678410184,Skewness <= 1.014132,0.8
+model_0208,Skewness + Mean + Kurtosis + Median + T-2 Return,2pt,Median,-1.4403953661646284e-06,0.007193672543520863,Skewness <= 1.014132,0.8
+model_0208,Skewness + Mean + Kurtosis + Median + T-2 Return,2pt,T-2 Return,0.04794693900329876,0.13450713459591584,Skewness <= 1.014132,0.8
+model_0206,Skewness + Mean + Kurtosis + Median + VIX,1pt,const,-0.002527055179811052,0.5668514168720761,T-2 Return <= 0.021495,0.8
+model_0206,Skewness + Mean + Kurtosis + Median + VIX,1pt,Skewness,0.0041069266255853686,0.00013905531344592342,T-2 Return <= 0.021495,0.8
+model_0206,Skewness + Mean + Kurtosis + Median + VIX,1pt,Mean,1.2790418105962115e-06,0.0069418400407618855,T-2 Return <= 0.021495,0.8
+model_0206,Skewness + Mean + Kurtosis + Median + VIX,1pt,Kurtosis,-0.0005031187761470554,0.1992777879644327,T-2 Return <= 0.021495,0.8
+model_0206,Skewness + Mean + Kurtosis + Median + VIX,1pt,Median,-1.2359263761484729e-06,0.00868945586856624,T-2 Return <= 0.021495,0.8
+model_0206,Skewness + Mean + Kurtosis + Median + VIX,1pt,VIX,0.00022572934309489853,0.17033627201395463,T-2 Return <= 0.021495,0.8
+model_0206,Skewness + Mean + Kurtosis + Median + VIX,2pt,const,-0.0026966987654747704,0.5411159158129468,T-2 Return <= 0.021495,0.8
+model_0206,Skewness + Mean + Kurtosis + Median + VIX,2pt,Skewness,0.0041569529962171324,0.00012637723701533393,T-2 Return <= 0.021495,0.8
+model_0206,Skewness + Mean + Kurtosis + Median + VIX,2pt,Mean,1.2759907626582286e-06,0.007083589651858784,T-2 Return <= 0.021495,0.8
+model_0206,Skewness + Mean + Kurtosis + Median + VIX,2pt,Kurtosis,-0.0004940338436118695,0.21378437115343096,T-2 Return <= 0.021495,0.8
+model_0206,Skewness + Mean + Kurtosis + Median + VIX,2pt,Median,-1.2306159813608254e-06,0.00897569912485893,T-2 Return <= 0.021495,0.8
+model_0206,Skewness + Mean + Kurtosis + Median + VIX,2pt,VIX,0.0002257270304872602,0.17035784327389608,T-2 Return <= 0.021495,0.8
