@@ -1,1 +1,1 @@
-﻿model_id,variables,num_variables,screening_required_factor_pvalue,final_filter_rule,n_obs_after_filter,retention_ratio,n_oos,r2_os_1pt,r2_os_2pt,delta_1pt_minus_2pt,pass_oos_rule
+﻿model_id,variables,num_variables,screening_core_factors,screening_core_factor_min_pvalue,final_filter_rule,n_obs_after_filter,retention_ratio,n_oos,r2_os_1pt,r2_os_2pt,delta_1pt_minus_2pt,pass_oos_rule

@@ -16,9 +16,9 @@ warnings.filterwarnings("ignore")
 # ============================================================================
 # Config
 # ============================================================================
-DATA_1PT_PATH = Path("output/regression_cleaned_data/RND_regression_all_1pt_1d_20260312.csv")
-DATA_2PT_PATH = Path("output/regression_cleaned_data/RND_regression_all_2pt_1d_20260312.csv")
-OUTPUT_DIR = Path("output/oos_sample_selection_1d")
+DATA_1PT_PATH = Path("output/regression_cleaned_data/RND_regression_all_1pt_7d_20260312.csv")
+DATA_2PT_PATH = Path("output/regression_cleaned_data/RND_regression_all_2pt_7d_20260312.csv")
+OUTPUT_DIR = Path("output/oos_sample_selection_7d")
 
 DATE_COLS = ["Observation Date", "Expiration Date"]
 TARGET_COL = "T Return"
@@ -65,7 +65,7 @@ FILTER_QUANTILES = [0.10, 0.20, 0.30, 0.70, 0.80, 0.90]
 MIN_RETAIN_RATIO = 0.70
 MAX_RETAIN_RATIO = 0.80
 MAX_FILTER_ROUNDS = 2
-MIN_ROWS_AFTER_FILTER = 250
+MIN_ROWS_AFTER_FILTER = 170
 MAX_MODELS_FOR_FILTER_SEARCH = 100
 N_JOBS = max(1, (os.cpu_count() or 2) - 1)
 
@@ -503,8 +503,8 @@ def main() -> None:
         ascending=[False, True, False],
     ).reset_index(drop=True)
 
-    models_path = OUTPUT_DIR / "candidate_models_1d.csv"
-    coef_path = OUTPUT_DIR / "candidate_model_coefficients_1d.csv"
+    models_path = OUTPUT_DIR / "candidate_models_7d.csv"
+    coef_path = OUTPUT_DIR / "candidate_model_coefficients_7d.csv"
     models_df.to_csv(models_path, index=False, encoding="utf-8-sig")
     model_coef_df.to_csv(coef_path, index=False, encoding="utf-8-sig")
 
@@ -559,7 +559,7 @@ def main() -> None:
                 "pass_oos_rule",
             ]
         )
-    summary_path = OUTPUT_DIR / "final_model_oos_summary_1d.csv"
+    summary_path = OUTPUT_DIR / "final_model_oos_summary_7d.csv"
     summary_df.to_csv(summary_path, index=False, encoding="utf-8-sig")
 
     if final_coef_rows:
@@ -577,15 +577,15 @@ def main() -> None:
                 "retention_ratio",
             ]
         )
-    final_coef_path = OUTPUT_DIR / "final_model_coefficients_1d.csv"
+    final_coef_path = OUTPUT_DIR / "final_model_coefficients_7d.csv"
     final_coef_out.to_csv(final_coef_path, index=False, encoding="utf-8-sig")
 
     passed_summary = summary_df[summary_df["pass_oos_rule"]].copy()
-    passed_summary_path = OUTPUT_DIR / "passed_oos_models_1d.csv"
+    passed_summary_path = OUTPUT_DIR / "passed_oos_models_7d.csv"
     passed_summary.to_csv(passed_summary_path, index=False, encoding="utf-8-sig")
 
     print("=" * 90)
-    print("完成 1d 模型搜尋、樣本篩選與 OOS 比較")
+    print("完成 7d 模型搜尋、樣本篩選與 OOS 比較")
     print(f"平行工作數: {N_JOBS}")
     print(f"候選模型總數: {len(models_df)}")
     print(f"通過 p-value 篩選的模型數: {len(passed_models)}")

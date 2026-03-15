@@ -1,0 +1,3 @@
+﻿model_id,variables,num_variables,screening_core_factors,screening_core_factor_min_pvalue,final_filter_rule,n_obs_after_filter,retention_ratio,n_oos,r2_os_1pt,r2_os_2pt,delta_1pt_minus_2pt,pass_oos_rule
+model_0293,Kurtosis + VIX + T-1 Return,3,Kurtosis,0.03358100016083118,Skewness >= -0.233984,196,0.8,76,0.011057932488347189,0.007152417987937532,0.003905514500409657,True
+model_0262,Kurtosis + VIX,2,Kurtosis,0.02571540951779363,Skewness >= -0.233984,196,0.8,76,0.00048394088493841636,-0.003245240230766999,0.0037291811157054156,True
