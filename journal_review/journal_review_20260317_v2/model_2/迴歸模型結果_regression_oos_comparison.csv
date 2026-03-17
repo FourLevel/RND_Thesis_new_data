@@ -1,0 +1,5 @@
+﻿Variable,Proposed_Coef,Proposed_p_value,Proposed_Sig,Proposed_R_squared,Proposed_MSE,Proposed_R2_OS,BF_Coef,BF_p_value,BF_Sig,BF_R_squared,BF_MSE,BF_R2_OS
+Kurtosis,-0.013026221,0.062327279,*,0.048003239,0.007354352,0.009354775,-0.012926817,0.063967894,*,0.047746862,0.007356333,-0.094075993
+Median,-0.014929917,0.047910229,**,,,,-0.014785981,0.04972604,**,,,
+Fear and Greed Index,0.016113426,0.032339502,**,,,,0.016068365,0.032778941,**,,,
+OOS Setting,"expanding, initial_window=120",,,,,,"expanding, initial_window=120",,,,,

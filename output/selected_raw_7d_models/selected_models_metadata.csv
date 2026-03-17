@@ -1,0 +1,3 @@
+﻿candidate_name,features,filter_rule,n_obs
+model_1_selected,Skewness + Median + Fear and Greed Index,Std >= 905.962517 AND VIX <= 29.206000,220
+model_2_best_oos,Kurtosis + Median + Fear and Greed Index,VIX <= 34.464000 AND Kurtosis >= 1.270652 AND T-3 Return >= -0.110710,164
