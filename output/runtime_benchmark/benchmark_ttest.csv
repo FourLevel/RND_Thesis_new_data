@@ -1,2 +1,2 @@
 ﻿t_statistic,p_value_two_sided,p_value_one_sided,mean_difference_seconds,significant_at_0_05,test_type,conclusion
--37.89406431847308,3.080555553602083e-11,1.5402777768010416e-11,-1.5126553600006432,True,paired_t_test,Reject H0. The paired results show that the 1pt runtime is significantly lower than the 2pt runtime.
+,,,-0.18242170000121405,False,paired_t_test,Fail to reject H0. The paired results do not provide enough evidence that the 1pt runtime is lower than the 2pt runtime.

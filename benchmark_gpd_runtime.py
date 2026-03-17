@@ -260,7 +260,7 @@ def ordinal_label(n: int) -> str:
     return f"{n}{suffix}"
 
 
-def build_markdown_table(
+def build_table_csv(
     execution_timestamp: str,
     sample_size: int,
     lookback_days: int,
@@ -268,55 +268,98 @@ def build_markdown_table(
     runs_1pt: list[float],
     runs_2pt: list[float],
     ttest_result: dict[str, float | str | bool],
-) -> str:
+) -> pd.DataFrame:
     min_obs = pairs["Observation Date"].min()
     max_obs = pairs["Observation Date"].max()
     min_exp = pairs["Expiration Date"].min()
     max_exp = pairs["Expiration Date"].max()
 
-    lines = [
-        "# Comparison of Computational Efficiency for Bitcoin Option GPD Tail Fitting",
-        "",
-        "(Left: 1pt method; Right: 2pt method)",
-        "",
-        f"- Execution Time: {execution_timestamp}",
-        f"- Execution Conditions: Each run generates {sample_size} weekly return RNDs with GPD tail fitting.",
-        (
-            f"- Selected Sample: {sample_size} observation/expiration pairs from "
-            f"`RND_stats_1pt_7d_20260312.csv`, observation dates {min_obs} to {max_obs}, "
-            f"expiration dates {min_exp} to {max_exp}."
-        ),
-        f"- Lookback Days: {lookback_days}",
-        "",
-        "| Item | 1pt method (sec) | 2pt method (sec) |",
-        "|---|---:|---:|",
+    rows: list[dict[str, object]] = [
+        {"section": "meta", "item": "Execution Time", "value": execution_timestamp},
+        {
+            "section": "meta",
+            "item": "Execution Conditions",
+            "value": f"Each run generates {sample_size} weekly return RNDs with GPD tail fitting.",
+        },
+        {
+            "section": "meta",
+            "item": "Selected Sample",
+            "value": (
+                f"{sample_size} observation/expiration pairs from RND_stats_1pt_7d_20260312.csv, "
+                f"observation dates {min_obs} to {max_obs}, expiration dates {min_exp} to {max_exp}."
+            ),
+        },
+        {"section": "meta", "item": "Lookback Days", "value": lookback_days},
     ]
 
     for idx, (left, right) in enumerate(zip(runs_1pt, runs_2pt), start=1):
-        lines.append(f"| {ordinal_label(idx)} Execution Time | {left:.2f} | {right:.2f} |")
+        rows.append(
+            {
+                "section": "runtime",
+                "item": f"{ordinal_label(idx)} Execution Time",
+                "1pt_method_sec": round(left, 6),
+                "2pt_method_sec": round(right, 6),
+            }
+        )
 
-    lines.extend(
+    rows.extend(
         [
-            f"| Shortest Execution Time | {min(runs_1pt):.2f} | {min(runs_2pt):.2f} |",
-            f"| Longest Execution Time | {max(runs_1pt):.2f} | {max(runs_2pt):.2f} |",
-            f"| Average Execution Time | {sum(runs_1pt) / len(runs_1pt):.2f} | {sum(runs_2pt) / len(runs_2pt):.2f} |",
+            {
+                "section": "runtime",
+                "item": "Shortest Execution Time",
+                "1pt_method_sec": round(min(runs_1pt), 6),
+                "2pt_method_sec": round(min(runs_2pt), 6),
+            },
+            {
+                "section": "runtime",
+                "item": "Longest Execution Time",
+                "1pt_method_sec": round(max(runs_1pt), 6),
+                "2pt_method_sec": round(max(runs_2pt), 6),
+            },
+            {
+                "section": "runtime",
+                "item": "Average Execution Time",
+                "1pt_method_sec": round(sum(runs_1pt) / len(runs_1pt), 6),
+                "2pt_method_sec": round(sum(runs_2pt) / len(runs_2pt), 6),
+            },
+            {
+                "section": "ttest",
+                "item": "Null Hypothesis",
+                "value": "mean paired runtime difference (1pt - 2pt) >= 0",
+            },
+            {
+                "section": "ttest",
+                "item": "Alternative Hypothesis",
+                "value": "mean paired runtime difference (1pt - 2pt) < 0",
+            },
+            {
+                "section": "ttest",
+                "item": "t statistic",
+                "value": round(float(ttest_result["t_statistic"]), 6),
+            },
+            {
+                "section": "ttest",
+                "item": "p value (one-sided)",
+                "value": round(float(ttest_result["p_value_one_sided"]), 6),
+            },
+            {
+                "section": "ttest",
+                "item": "Mean difference (1pt - 2pt) sec",
+                "value": round(float(ttest_result["mean_difference_seconds"]), 6),
+            },
+            {
+                "section": "ttest",
+                "item": "Significant at alpha=0.05",
+                "value": "Yes" if ttest_result["significant_at_0_05"] else "No",
+            },
+            {
+                "section": "ttest",
+                "item": "Conclusion",
+                "value": ttest_result["conclusion"],
+            },
         ]
     )
-    lines.extend(
-        [
-            "",
-            "## One-sided paired t-test",
-            "",
-            "- Null hypothesis H0: mean paired runtime difference (1pt - 2pt) >= 0.",
-            "- Alternative hypothesis H1: mean paired runtime difference (1pt - 2pt) < 0.",
-            f"- t statistic: {ttest_result['t_statistic']:.6f}",
-            f"- p value (one-sided): {ttest_result['p_value_one_sided']:.6f}",
-            f"- Mean difference (1pt - 2pt): {ttest_result['mean_difference_seconds']:.6f} sec",
-            f"- Significant at alpha=0.05: {'Yes' if ttest_result['significant_at_0_05'] else 'No'}",
-            f"- Conclusion: {ttest_result['conclusion']}",
-        ]
-    )
-    return "\n".join(lines) + "\n"
+    return pd.DataFrame(rows)
 
 
 def run_runtime_ttest(runs_df: pd.DataFrame) -> dict[str, float | str | bool]:
@@ -416,7 +459,7 @@ def main() -> None:
     pivot.to_csv(wide_path, index=False, encoding="utf-8-sig")
 
     execution_timestamp = datetime.now().strftime("%Y/%m/%d %H:%M")
-    markdown = build_markdown_table(
+    table_df = build_table_csv(
         execution_timestamp=execution_timestamp,
         sample_size=args.sample_size,
         lookback_days=args.lookback_days,
@@ -425,15 +468,15 @@ def main() -> None:
         runs_2pt=runs_df.loc[runs_df["method"] == "2pt", "elapsed_seconds"].tolist(),
         ttest_result=ttest_result,
     )
-    markdown_path = output_dir / "benchmark_table.md"
-    markdown_path.write_text(markdown, encoding="utf-8")
+    table_path = output_dir / "benchmark_table.csv"
+    table_df.to_csv(table_path, index=False, encoding="utf-8-sig")
 
     print(f"selected pairs -> {pairs_path}")
     print(f"run details -> {runs_path}")
     print(f"summary -> {summary_path}")
     print(f"t-test -> {ttest_path}")
     print(f"wide table -> {wide_path}")
-    print(f"markdown table -> {markdown_path}")
+    print(f"table -> {table_path}")
 
 
 if __name__ == "__main__":
